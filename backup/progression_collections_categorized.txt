@@ -1,0 +1,3025 @@
+The Progression — three Steam collections, categorized
+========================================================================
+
+1/3 Core pack     https://steamcommunity.com/workshop/filedetails/?id=3521297585
+                 The Progression Modpack [1.6]  (860 items)
+2/3 Content       https://steamcommunity.com/workshop/filedetails/?id=3521319712
+                 The Progression Content | (2/3)  (423 items)
+3/3 Cosmetics     https://steamcommunity.com/sharedfiles/filedetails/?id=3637541646
+                 The Progression Cosmetics | (3/3)  (192 items)
+
+Unique items: 1472
+Categories are inferred from titles and home collection; treat as a map, not a manifesto.
+
+
+------------------------------------------------------------------------
+Frameworks & libraries  (25)
+------------------------------------------------------------------------
+  - [SYR] Processor Framework (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3210544395
+  - Adaptive Storage Framework
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3033901359
+  - Alien Worlds Framework
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3626210061
+  - ATH's Styleable Framework
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3016405872
+  - Big and Small - Framework
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2925432336
+  - Biomes! Framework
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3709492514
+  - Bunny Framework
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3015333853
+  - EBSG Framework
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3112549163
+  - FSharp.Core
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2059725183
+  - Genetic Heads Framework for [NL] Facial Animation
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3498759997
+  - Harmony
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077
+  - HugsLib
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=818773962
+  - Keyz Reference Tools
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3689557041
+  - Localizer
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3794747458
+  - Log Publisher from HugsLib
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404
+  - Map Mode Framework Forked
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3672467706
+  - Popup Framework
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3654537815
+  - SpineLib
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3778463813
+  - Vanilla Expanded Framework
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013
+  - Vehicle Framework
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3014915404
+  - Vehicle Framework - Local Flight Systems
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3482176791
+  - Vehicle Interior Framework
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3184281714
+  - Vehicle Map Framework
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3426502333
+  - VPE - Sentinel Framework
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3724841120
+  - XML Extensions
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206
+
+------------------------------------------------------------------------
+Performance, loading & developer tools  (16)
+------------------------------------------------------------------------
+  - [DR] Save Without Restart
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3599419929
+  - Architect Menu Optimizer
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3697920753
+  - Copy Mod-ID to Clipboard
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3378714569
+  - Dependency Overdose Fix
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3421951605
+  - Dubs Performance Analyzer
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2038874626
+  - Hide Unloaded Mods Errors
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3778600801
+  - Load in Background
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3696524379
+  - Load Them Last
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3714307386
+  - Loading Progress
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3535481557
+  - Loading Screen Repository
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3567860027
+  - Missile Girl - Performance Mod
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3712928623
+  - Performance - Slower Pawn Tick Rate
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3524116050
+  - Performance Esmolas
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3676343434
+  - Performance Optimizer
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2664723367
+  - Turret Performance Tweaks
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3621644930
+  - Worldbuilder
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3522102833
+
+------------------------------------------------------------------------
+UI, menus & information  (127)
+------------------------------------------------------------------------
+  - [UI-Overhaul] PrettyUI
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3661802609
+  - All Ideoligions Are Fluid
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2872901762
+  - Alternate Research Projects
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3332424173
+  - Ancient urban ruins
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3316062206
+  - Animal Tab
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=712141500
+  - Anomaly Research Asteroid
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3527726648
+  - Architect Icons
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1195427067
+  - Basic Dropdowns
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3455529827
+  - Better Architect Menu
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3563882422
+  - Better Context Menu
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3696948139
+  - Better Gene Processor UI
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3548641009
+  - Better Inspect Pane
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3788686557
+  - Better Mod Menu
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3636406008
+  - Better Records Tab (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2359778562
+  - Better Scroll Bars
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3579237751
+  - Better Traders Guild
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3684587591
+  - BetterInfoCard
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2890920739
+  - Bio Tab+
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3781978940
+  - Bionic icons
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1677616980
+  - Bradson's Main Button Icons (Forked + Expanded)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3532359201
+  - Cherry Picker
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3521312241
+  - Cherry picker scroll/search menu
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3781285156
+  - ChordedKeybinds
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3660259520
+  - Chronos Pointer - Schedule Menu Enhancement
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3408065390
+  - Colored Categories (DEVELOPMENT CEASED)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3323569935
+  - Confirm Quit to OS
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3793919395
+  - Cooler Orientation Alert
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3755450701
+  - Cut plants before building (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3286376165
+  - Davai's Sorted Categories
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3419053173
+  - Declutter UI
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3649094165
+  - Designations Tooltip
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3743959668
+  - Dev Mode Above Select Starting Site
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3757947970
+  - Development Keybinds
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3620311179
+  - Development Mode Hotkey
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3009274839
+  - Do Your F****** Research
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3523205869
+  - Drug Policy Search
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3693258313
+  - Dubs Mint Menus
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1446523594
+  - Dubs Mint Menus Recipe Right Click Open InfoCard
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3151252341
+  - Extinguisher Drone
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3555852714
+  - Fish Until Gizmo
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3777179657
+  - Float Sub-Menus
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2864015430
+  - Food Alert (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2017538067
+  - Foxes Aren't Suicidal(continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2094250578
+  - Free UI Scaling
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3756809055
+  - Generally More Research
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3613068789
+  - Give up your building (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2564783983
+  - Help me build
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3534699220
+  - Improved Map Search
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3547866455
+  - Keybindings Search
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3707045543
+  - Less Annoying Minor Alerts
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3791050729
+  - Letter Gravship Ready
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3534224324
+  - Letter Permanent Injury
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2592535960
+  - LiquidSFX
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3758773902
+  - Mahjong Table
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3268214925
+  - Material Sub-Menu
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3345696149
+  - Mech Work Tab
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3268299107
+  - Medical Tab - Continued
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3658588582
+  - Modern Empire Tab
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3748548815
+  - Modern Faction Menu
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3742926690
+  - Modern History Menu
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3742925193
+  - Modern Psycasts UI
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3745137736
+  - Modern Social Tab
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3740700588
+  - Mutator and Landmark Defs for Cherry Picker
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3773922864
+  - Nice Bill Tab
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3520130671
+  - Nice Bill Tab - Expansion
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3721023311
+  - Nice Health Tab
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3328729902
+  - Nice Inventory Tab
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3609897594
+  - Nice Plants Menu
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3685058533
+  - No Bathroom Ruins
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3773690890
+  - No Factory Floor Requirement
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3687039048
+  - No Hemogen Farm Medical Alert
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2887053053
+  - No Version In Pause Menu
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3568421458
+  - Node Research
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3729878405
+  - Omni Tab
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3663372521
+  - Path Avoid (1.6 Rebuild)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3779284077
+  - Pawns Use Fire Extinguishers (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3612608024
+  - Penguin Expansion
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3719172734
+  - Popup Alerts for Condition Ending
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3359890371
+  - Power Alerts
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1664714758
+  - Power Tab 2 - 1.6 Bug Fixed Version
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3528086894
+  - Premade Xenotype Floatmenu to Dialog
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3350991041
+  - Prisoner Jumpsuits
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3402467889
+  - Prisoner Jumpsuits - No Quality
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3544594291
+  - Psycaster Colonists Tab
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3699245205
+  - Quality Overlay
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2568283376
+  - Quick Accuracy Overlay
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3529158770
+  - Quick Jump to Location
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2776090582
+  - Quick Stockpile Creation
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1742151109
+  - Real Ruins
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1552146295
+  - ReBuild: Doors and Corners
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3262718980
+  - ReBuild: Doors and Corners - Cell Door Fix
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3598547615
+  - Research Icons
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3688553480
+  - Research Papers
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3492739424
+  - Research Tab Colors
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3108740804
+  - Resize Filter Tab
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2914821423
+  - Right-Click Gizmo Indicator
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3750529401
+  - Ruthless Faction Pursuit
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3621784437
+  - Scenario Editor UI Overhaul
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3547456746
+  - Scenario Searchbars [1.6]
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3579415129
+  - Scenarios Menu Search
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3788512568
+  - Scrollable Inspect Panes
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2889151469
+  - Semi Random Research:P-Fork Continued
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3778002533
+  - Show Buildable Material Count
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3245101540
+  - Skipdoor Menu
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3678214467
+  - Sleek Research Tab
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3752835712
+  - Sleek Work Priorities
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3764537806
+  - Sleek Work Schedule Tab
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3742689571
+  - Sourcing Only in Dev Mode
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3724631442
+  - Stuff on Tables Forked
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3289533061
+  - Style Tooltip Columns
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3748051379
+  - Toggleable Overlays Continued
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3261316725
+  - Tooltipped Long Names
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2303452428
+  - Tooltips in Dev-mode
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3470245875
+  - Trade UI Revised
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2683622537
+  - Trader Will Buy Search
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3757435365
+  - Trait and Backstory Icons
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2873494547
+  - Triumphant Research
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3647618250
+  - Vanilla Factions Expanded - Classical - No Auto Research
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3757952859
+  - Vanilla Search Bars
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3774189110
+  - Vanilla Weapons Expanded - Quickdraw
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1906780517
+  - VE Ideology Addon — Autogenerate Lore-friendly Icons Only
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3672467556
+  - VFE Props and Decor Search Bar Addon
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3713356452
+  - VFE Tribals Cornerstone Search
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3738362387
+  - WealthList 1.5 From VUIE
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3246503293
+  - Wololoo - Better Conversion and Recruitment
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3108763487
+  - Work Box Highlight
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3654677201
+  - 更好的开发者模式/BetterDevMode
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3744475229
+
+------------------------------------------------------------------------
+Quality of life & automation  (315)
+------------------------------------------------------------------------
+  - [CF] VRE - Sanguophage Better Parts
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3165181669
+  - [DR] Where's My Treasure
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3559591864
+  - [FSF] Better Exploration Loot
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3526957922
+  - [GMT] Trading Spot
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333
+  - [lmgginspace] Force Do Job
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3226046759
+  - [LTO] Colony Groups
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2345493945
+  - [LYN] VVE Renamed
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3014810352
+  - [RH2] CPERS: Arrest Here!
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2563157350
+  - Achtung!
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=730936602
+  - Additional Hero Backgrounds
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3692484664
+  - Against All Odds [v2.0] [1.6]
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3552336221
+  - Allies are Helpful
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3534920369
+  - Allow Altars in Throneroom
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2554407161
+  - Almost There! Fork
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3515165298
+  - Always Start in Daytime
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3323971974
+  - Artisan Experience
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3794903743
+  - As above, So below 2
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3776015553
+  - Asimov
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3096481956
+  - Atelier (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3554040577
+  - ATH's Ideo Colors Pallette
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3069754400
+  - Auto Mod Config (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3586136174
+  - Auto-Cast Specialist Commands
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3459647882
+  - Auto-Cut Blight - 1.6
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3520167264
+  - Auto-repair On
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3312319778
+  - Automatic Night Owl
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2056012179
+  - Automatic Parking
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3365473553
+  - Bad Can Be Good (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2889440091
+  - Batch Install
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3248501544
+  - Battery Capacity in Stat View
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3651439731
+  - Beauty Matters
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2896613924
+  - Begging
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3756029681
+  - Better money
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2893659870
+  - Better Workbench Management
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=935982361
+  - BetterInspectCard
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3538143191
+  - BetterWeight
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2221387317
+  - Big Bed Buff
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3201556342
+  - Birth Quality Lifespan Fix
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3654799710
+  - Busywork
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3775253009
+  - Can I Reinstall This?
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3746091680
+  - Capture Expansion
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3787736781
+  - Cat's Boots and Gloves
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3552813398
+  - Character Development
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3770112044
+  - Chill the Fork Out
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3523235444
+  - Chimera Creation (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3615540204
+  - Chisel Statue
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3663096965
+  - Choose Where To Land
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3537970831
+  - Colony Epitaph
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3788718474
+  - Colored deep resources
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3203269467
+  - Concerts For All
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3408965272
+  - Configurable Deconstruct Percentage
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2568850063
+  - Consistent Text
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3578462306
+  - Continue Button
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3195912079
+  - Count Stacked Prosthetics in Recipes
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3351379399
+  - Covered Ugly Thought Nullifier
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3641680967
+  - Cremate Auto Strip
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1575458517
+  - Death Acidifiest
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2835241835
+  - Death-Sentence
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3419669410
+  - Deconstruct First
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1567338829
+  - Decor into Props
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3771248988
+  - Decor into Styles
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3771249138
+  - Deep Pills
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3758899296
+  - Deselect Zone
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3328706359
+  - Dev QOL
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3664953620
+  - Ding On Game Loaded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2425530959
+  - Disable Automatically Select Travel Supplies
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2856472581
+  - DragSelect
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2599942235
+  - Draw From Center
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3553713342
+  - Draw It
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3658946017
+  - Dress for the Weather (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3607724833
+  - Dubs Break Mod
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1722398508
+  - Echoes of the Rim
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3573196843
+  - Electrical Grid Toggler
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2681860997
+  - Explosive Radius (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2986987463
+  - Export and Import Mod Settings
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2937876372
+  - Face Down
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2589144866
+  - Fahrenheit and Celsius
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=937759575
+  - Fast Author Confirm (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2008011990
+  - Ferny's Mod Configs
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3256902751
+  - Flood Fill Shape
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3534423645
+  - Fluffy Breakdowns 1.6 (fork with VGrE support)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3654021202
+  - Follow Target
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3555423377
+  - Foot Traffic Heatmap
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3240217316
+  - Force Xenogerm Implantation
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3261498531
+  - Forgetful Mech Resurrection
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3766269434
+  - FPS Stabilizer
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3318922522
+  - Fuck Embrasures
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3294810484
+  - Fuck Learning Helper
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3608746864
+  - Fuck Psytrainers 2
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3582261920
+  - Genderbending Corrupted Obelisk
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3350774891
+  - Ghouls Prefer Twisted Meat
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3230171961
+  - Glowpods Use Darklight
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2738028630
+  - Go the Fork to Sleep
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3523734445
+  - Ground Targeter 1.6 [temp]
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3525070588
+  - GroundClear
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2013560306
+  - Gunlink sucks less
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3417891982
+  - Hard Vacuum
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3530415332
+  - Haul After Stripping
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3596054023
+  - Haul Explicitly Reborn
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3556245703
+  - Haul Mined Chunks
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2799728059
+  - Helpful Monkeys
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1523796550
+  - Helpful Raccoons | Fork by [ETF]
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3457315303
+  - High Life Drug Cooking Speed
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3183941628
+  - I Cant Fix That
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2780971535
+  - I Clearly Have Enough! (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2023661266
+  - I Don't Care
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2970757252
+  - I Know Where You Sleep
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3386614143
+  - I will be back
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3400259397
+  - I'm Off (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3251510002
+  - Ignorance Is Bliss
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2554423472
+  - Ignore Idle Guests
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2515048728
+  - Immersive Opening
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3698099797
+  - Impassable Containment Structures
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3222738861
+  - Improved Need Indicator
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3211635205
+  - In Memoriam
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3745745819
+  - Incident Person Stat (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2896052868
+  - Increased Max Gods in Theist Religions
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2991154934
+  - Initial Motivation
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3046519492
+  - Just Ignore Me Passing (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3503627342
+  - Just Leave Already
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3530313037
+  - Just Put It Over There
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2856471776
+  - Justice For Flagstone
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3237084161
+  - Keep Converting
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3461478214
+  - Last Visited (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3507014727
+  - Leaf Skirt
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3423798414
+  - Lifter Plz Do More Jobs
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2884057958
+  - Linkable Groups
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3659197870
+  - Lovin' Is Messy (and fun)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3081507494
+  - Meals On Wheels - Continued
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3538082807
+  - Meat on a Stick
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3435027361
+  - Meat on a Stick - Expansion
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3577333297
+  - Mech Recharger Standby Mode
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2879340506
+  - Mechs can brew
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3535375303
+  - Mechs Don't Die
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2894563067
+  - Medieval Overhaul
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3219596926
+  - Medieval Overhaul Integration Fixes
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3535525683
+  - Mid-Save-Saver Continued
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3261311100
+  - Mine Sight
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3769804600
+  - MinifyEverything
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=872762753
+  - Minimal Light Control
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1554307259
+  - Mod Options Sort
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2910865748
+  - Modern Notifications
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3752932665
+  - Mood Matters
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2581603685
+  - More Orders
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3462617228
+  - More Prop Categories
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3167021055
+  - Mount Passengers
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3756579512
+  - Move Your Monolith
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3221480525
+  - Multi-Reinstall
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3266494262
+  - Name Your Entities
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3229905841
+  - Necroa Archovirus
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3531035748
+  - Nerfed Fecal Sludge
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3133620553
+  - Neural Supercharger Ownership
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3285440328
+  - Nightmare Core
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3047049650
+  - No Ambient Ducking
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3784455797
+  - No Burn Metal
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1923990111
+  - No Headstone Till Buried
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2845934338
+  - No Ingredient List Limit
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2853567450
+  - No Log On Startup
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3769605642
+  - No Max Bills: Redux
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3526216885
+  - No Modlist on Loading
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3618480405
+  - No More Lethal Damage Threshold
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2657551690
+  - No Quality Filter
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3528263608
+  - No Time Change Sounds
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2572368517
+  - No Version Warning
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2599504692
+  - Not My Fault
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2870045856
+  - Not Overhead Meal
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2986525461
+  - Nudge Me - Melee Pathfinding Fix
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3665657945
+  - Numbers
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1414302321
+  - Nurse Job
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1820501433
+  - Nuzzle Me
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3573691945
+  - Only If 'Tolerance' Below in Drug Policy
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3088210509
+  - Organ Decay Variety
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3238650014
+  - Organ use No sell
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3053705400
+  - Oxygen Detector
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3587621326
+  - Pacing Manager
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3613142246
+  - Paintable Spots & Objects
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2902039321
+  - Party Your F****** Ass Off (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3656819555
+  - Pause other settlements simulation
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3526657761
+  - Pen Audit
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3701471570
+  - Perfect Placement
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3628576625
+  - Perishable (and More)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2294597530
+  - Permanent Enemies Never Flee
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2469532299
+  - Permits: Re-Examined
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3521089734
+  - Persistent Precepts
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2944765939
+  - Perspective Shift
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3686618980
+  - Perspective: Eaves (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3346964576
+  - Perspective: Paths Continued
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3280637253
+  - Pick Up And Haul
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1279012058
+  - Pillar Planner
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3768069893
+  - Planning Extended
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2877392159
+  - PlatformStudyToggle
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3228118083
+  - Pocket Sand
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2226330302
+  - Pointed Elf Ears Refined
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2886966525
+  - Power Indicators
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=899714534
+  - Power: Re-Examined
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3590186274
+  - Pregnancy Attitude
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3530918349
+  - Prepare Moderately
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2057362949
+  - Priority Treatment Ressurected
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3009738919
+  - Prison Commons (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2898000489
+  - Proselytizing Never
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3053650876
+  - Punch Button
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2651392585
+  - Quality Colors (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3513846773
+  - Raise specialist limit
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2580915852
+  - Random Start
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3257028947
+  - Realistic Darkness (Light)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1555355332
+  - Realistic Rooms Rewritten
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2558042766
+  - Reese's Dirtmole Glowup
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3587761388
+  - ReGrowth 2
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2260097569
+  - Release The Rats! (Trainable Rats)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2050586249
+  - Remove Colonies Limit
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3745014294
+  - Remove Tutorial Button
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=781505663
+  - Replace Stuff - Continued
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3526354009
+  - ReplaceLib
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3417393194
+  - Rescuee Joiner Plus
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2177170403
+  - Resource Delivery Helper
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3696859196
+  - ReSplice: Core
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3236303965
+  - Reverse Commands
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=858744731
+  - Rim is Ready
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3796688140
+  - RimHUD
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1508850027
+  - RimSaves
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1713367505
+  - Rizryn's Family Tree Mod
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3734644035
+  - Room Quality Colors
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3407965871
+  - RPG Dialog
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3547971440
+  - RT Fuse
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=728314182
+  - Run and Hide (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2022480344
+  - RunAndGun - Continued
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3562365100
+  - Safely Hidden Away (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3546378186
+  - Save Thing As Image
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2930015327
+  - Say That Again
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2776179693
+  - Scanning Thoughts
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2899212140
+  - Scattered Stones 1.6
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3528503211
+  - Schedule Everything!
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3486341728
+  - Select Attached Mechanoid
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3754845284
+  - Sensible Bed Ownership
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3328702448
+  - Set Owner for Prisoner Beds
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2053931388
+  - Settlement Descriptions
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2240524945
+  - Share Settings
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3558813478
+  - Shift Change
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3783456242
+  - Shoo! (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3550216763
+  - Show Days to Rot in Info Window
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3008486548
+  - Show Detailed Dates
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3346332305
+  - Show Known Techprints
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2920370783
+  - Show Mod Updates
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3218690663
+  - Show Possible Materials
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3338920230
+  - Simple Leadership
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3668307448
+  - SimpleCameraSetting
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3232415388
+  - Slave Rebellions Improved (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3259932217
+  - Small Vehicle Add-ons
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3420948947
+  - Smaller radius for Anima Trees, Shrines and Animus Stones
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2812513517
+  - Smart Meditation
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2800676538
+  - Smart Speed
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1504723424
+  - Smarter Visitors
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3012491521
+  - Snap Out!
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1319782555
+  - Soil Contrast
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1561838700
+  - Spectacular Skullspike
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2963460063
+  - SquadKit
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3757704214
+  - StarFix
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3778487830
+  - Stockpile It!
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3782632915
+  - Stockpile Ranking - Continued
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3549739420
+  - StockpileGroups
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3780470964
+  - Stop, Drop, And Roll! [BAL]
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2362707956
+  - Stranger In Black Techlevel
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3428237149
+  - Style Merging
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3673644556
+  - Surgery Improved
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3233032071
+  - Switch Worker
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2903805493
+  - Tabula Rasa
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1660622094
+  - Take Drugs Together
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3651575369
+  - TakeCover
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3749200746
+  - TD Enhancement Pack - Continued
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3525414162
+  - TD Find Lib - Continued
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3529443295
+  - TDS Bug Fixes - Continued
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3529433984
+  - Text Tool
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3773691016
+  - Thick Roof Miner Temp
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3672142760
+  - Thunderstorm
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3278460897
+  - Tile Filter
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3745223377
+  - Time As a Slave
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3310058867
+  - Titles For Me
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3374370341
+  - To-do List
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3655920479
+  - Toddlers
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2903359152
+  - Toggle Harvest
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1499848654
+  - Too Many Areas (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3280480860
+  - Too Many Mods - Compats and Rebalances
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3250762483
+  - Tradable Meals
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1506931205
+  - Trade Ships Drop Spot
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1969732297
+  - Trap Grid Placement
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3714090272
+  - Trauma and Integrity
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3760716715
+  - True Non-Senescence
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3547377353
+  - True RPG Inventory
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3744201621
+  - TV is Educational
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2921021769
+  - Ugh You Got Me
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1542424705
+  - Ugly Together
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2884233923
+  - Un-Limited Reborn
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3295368629
+  - Underground Zzzts
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3363954008
+  - Undraft After Tucking
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2157495459
+  - Unsmooth Surface
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3717703166
+  - Useful Marks
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3506573327
+  - Useful Marks in Colony Groups
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3720856279
+  - Useful Relics
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3532662581
+  - Van's Paintings
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2901656436
+  - Vehicle Dubs Needs Fix
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3324340437
+  - VFE-Deserters: Remote Deadlife IED
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3456687807
+  - VFE-tribals: Add cornerstone points
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3414709459
+  - Visandars Rocks and Stones
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3009790001
+  - Visit Settlements
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3535955435
+  - Visored Headgear
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3070137089
+  - Wander Joiner Plus
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2177016016
+  - We Are United
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3030804445
+  - What's for sale?
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3203277064
+  - Who shot my leg off?
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3491552121
+  - Who Updated
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3731638172
+  - Who's Next? (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3006402305
+  - Wider Marriage Spot
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3358393642
+  - Work History
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3727287885
+  - WVC - Work Modes
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2888380373
+  - You Drive, I Sleep
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3324430833
+  - Zone To Schedule
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2436086611
+
+------------------------------------------------------------------------
+Textures, retextures & visuals  (74)
+------------------------------------------------------------------------
+  - [AV] Mechanoid Skins
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3667667489
+  - [CF] Anomaly Upscaled 2x
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3538584455
+  - [CF] Better Looking Plants
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3167083455
+  - [CF] Odyssey Upscaled 2x
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3535506453
+  - [CM] Ideology DLC Texture Upscale
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2603637629
+  - [Mk] Mako's Animal Cages Retexture - Doors Closed
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3520803100
+  - [sbz] BioReactor retexture
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2618249368
+  - [sbz] EPOE retexture
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2616058883
+  - [sbz] Human Power Generator retexture
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2635855505
+  - [sbz] WVC - Work Modes retexture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2913464579
+  - [TW1.6]雪人贴图重置 Retexture~Snow man
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3482433222
+  - [XND] Visible Pants
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2264108215
+  - Alpha Genes - Forsaken Gear Retexture
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3705620674
+  - Archeankin (Retexture)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3786535436
+  - BallGames (Retexture)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3725533396
+  - Better Trees: More Djeeshka Like Textures
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3543705507
+  - Biotech Mechanoid Retexture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3164022710
+  - Blood Animations
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3228047321
+  - Blood-Tinted Wounds
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3762681120
+  - Clean Textures
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2865361569
+  - Clean Textures - Less Grass
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3061095040
+  - Comms Console Retexture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3300746978
+  - Consistent Textures
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3586064345
+  - Cowboy Hats Bloatended (Retexture + Ideology) now with Bowler Hat
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3688414599
+  - Dark Psychic Rituals: The Following (Retexture)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3720400596
+  - Disable Animated Marsh | Clean Textures - VTE, Regrowth Compatibility Patch
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3526204611
+  - Drop FX
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2891225472
+  - Dub's Paint Shop
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1579516669
+  - Electric Igniter (Retexture)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3726460837
+  - Elk Retexture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3611519781
+  - Fire At Will Gizmo - Evolving Retexture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3770020686
+  - Fishing Decorative Retexture
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3256420234
+  - Footsteps
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3728675951
+  - Gerrymon's Upscaled Vanilla Textures
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3276562906
+  - HiTech Research Bench Retexture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3136109297
+  - Injury Texture Variety
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3561610873
+  - Long Range Mineral Scanner Retexture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3339757768
+  - LusTech Vanilla Weapons Retexture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3602372541
+  - LusTech VWE Coilguns Retexture
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3750587891
+  - Meat on a Stick (Retexture)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3786054758
+  - Meat on a Stick - Expansion (Retexture)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3786055464
+  - Mechanoid Cluster Retexture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3523231836
+  - Mechanoid Skins: Curvaceous
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3708199539
+  - Mechanoid Skins: Kraltech Industries
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3732548089
+  - Medieval Visible Pants Addon
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3707481634
+  - More Vanilla Textures
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2707120862
+  - Multi Analyzer Retexture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3306133515
+  - Pack Your Craw (Retexture)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3785816610
+  - Parka Retexture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2984307648
+  - Pilot Console Retexture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3528477422
+  - Pumpkinlass Visible Pants Retexture
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3772689105
+  - Research Papers Tech Levels (Retexture)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3759752068
+  - Retextured! - RT Fuse
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2979449586
+  - Revert Column Texture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3534066559
+  - Simple Cape and Hood Retexture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3543386604
+  - Toymaker's Additional Outposts Retextured
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3020739638
+  - Trader Ships Retexture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3546078602
+  - Trading Expanded Console Retexture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3264088247
+  - Turret Vanilla Retexture and Restyle
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2980467701
+  - UI Retexture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2978831421
+  - Van's Retexture : Hemogen Vials
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3453224032
+  - Van's Retexture : Mechanitor
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2943977908
+  - Van's Retexture : Melee Weapons
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2922441211
+  - Vanilla + Wall Vitals Monitors Retexture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3283859881
+  - Vanilla Mechanoid Slag Chunks Retextured
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3228786091
+  - Vanilla Textures Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2016436324
+  - Vanilla Textures Expanded - Variations
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2493234474
+  - VPE - Aeromancer (Retexture)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3724996100
+  - VPE - Anima (Retexture)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3745672274
+  - VPE - Deadlife (Retexture)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3747342858
+  - VPE - Geomancer (Retexture)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3735124996
+  - VPE - Gravcaster (Retexture)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3736210217
+  - VPE - Hydromancer (Retexture)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3724679401
+  - VPE - Luminis (Retexture)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3721818780
+
+------------------------------------------------------------------------
+Cosmetics: hair, bodies, apparel & styles  (213)
+------------------------------------------------------------------------
+  - [CF] VRE - Saurid Better Head Parts
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3539916610
+  - [LYN] HD Corporate and Hedonist Apparel
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3333314985
+  - [MUS]哥特式吸血鬼家具 Gothicstyle Vampire Furniture
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3102678787
+  - [MUS]太空基地家具Space Base Furniture
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3523916780
+  - [MUS]捕鱼装饰 FishingDecorative
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2981211719
+  - [NL] Facial Animation - WIP
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=1635901197
+  - [Og] Immersive Filter
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3735827910
+  - [PL] Female Variant Clothing: For Fat Bodies
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3771446780
+  - [PL] Pumpkin Female Body for Xenotypes
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3786057800
+  - [TW1.6]Neo-Retro Haus Furniture
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3672585333
+  - Absolute Legends: Hair
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2195744587
+  - Adjustments for Reel's Facial Animation Textures
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3429452043
+  - Adjustments for Vanilla Textures Expanded - [NL] Facial Animation
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3532050275
+  - AFU女士发型_Women's hairstyles
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2020779666
+  - AFU男士发型_Men's hairstyles
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2072106893
+  - Akeron Extras - Facial Animations
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2889716301
+  - Aliaile Race Furniture
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3706046839
+  - Alien Head Gene
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3768829403
+  - Alien Head Gene FA Patch
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3770971498
+  - Alpha Genes Facial Animation
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3751293981
+  - Alpha Props - Parks and Gardens
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3146268928
+  - Alpha Props - Ship Parts
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3221222211
+  - Amnabi's Flags (Continued)
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2592638428
+  - Amorphous style pack
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3382499324
+  - Apparel Painter
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3792795811
+  - Apparel Policy Builder
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3761873351
+  - Architecture of the Rim (incl. corners)
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3330807313
+  - Astronomy Style Pack
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3522312454
+  - ATH's Retexture Female Apparel
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3145326932
+  - ATH's style Gothic and Bloody Gothic
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3136210612
+  - ATH's styles Norse 1.6 + Parka Fix (forked)
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3535035343
+  - Ayaethean Ideology
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3716726987
+  - Aztec Weapon Style Pack
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2893316224
+  - Banana Suit (Continued)
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3364370362
+  - Beard Age Requirement
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3706448581
+  - Beliar Facial Animations
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3742391245
+  - Better Trees
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3539609975
+  - Bill Doors' Simple Signs
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2905097730
+  - BodyMastery Mastered DBH
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3296130663
+  - Bread Mo's Valentine's Day apparel
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3295274246
+  - Cannibal Pirates Style Expansion 1.6 (Temp)
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3539790957
+  - Chest Hair Tattoos
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3549854404
+  - Childrens Drawings
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2918817041
+  - Clown Voice Gene
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2985408273
+  - Cold Tactical Gun Styles
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3458282796
+  - Computer Voice Gene
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2987053008
+  - Croiyaki's Deadlock Hairs
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3666617471
+  - Crowns and Regalia
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2585571655
+  - Cute Boy Hairstyles
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3538207880
+  - Deck 2
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3779460145
+  - Decorations and dishes at Gorgeous banquet
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3027639868
+  - Det's Xenotypes for [NL] Facial Animation
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3565987465
+  - Diner Supplies
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3501336537
+  - Don't Mix Cosmetic Genes
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3621282829
+  - Dresses in the Rim
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3138641568
+  - Dune Style Pack
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2993301551
+  - Erin's Decorations
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2463358089
+  - Erin's Hairstyles - Redux
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2361911135
+  - Erin's Hairstyles 2
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2849477421
+  - Erin's Japanese Furniture
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2354938860
+  - Everybody Gets One - Continued
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3530806680
+  - Extra Explosion Effects
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3066208882
+  - Extra Vehicle Patterns
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3204141401
+  - EyeGenes3
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3745223213
+  - Facial Animation Performance Patch
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3790129900
+  - Female Body Variants Continued
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3798082132
+  - FemaleApparelVariants
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3511966169
+  - FirmamentFX
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3781872865
+  - Floors Scale&Offset
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3759130720
+  - Form and Function Hairstyle
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3785728415
+  - Genetic Biotech for Facial Animation
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3501317537
+  - Genetic Mods for Facial Animation
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3501317734
+  - Gerrymon's Cannibal Style
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3432956417
+  - Gerrymon's Erotic Style
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3273776545
+  - Gerrymon's Greekcore Style
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3666883698
+  - Gerrymon's Misc Props: Adult Life
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3788600107
+  - Gerrymon's Misc Props: Dungeon
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3772571876
+  - Gerrymon's Misc Props: Fences
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3797400517
+  - Gerrymon's Misc Props: Graveyard
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3780458386
+  - Gerrymon's Nautian Style
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3147664706
+  - Get Out Of My Chair!
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3119651616
+  - Gloomy Dress (Unofficial)
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2187064189
+  - Glowing eyes genes
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3023336989
+  - Glowing Eyes Height And Tick Fix
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3786319835
+  - Goliann Facial Animation
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3731047035
+  - Graphic Chair Overhaul 2
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2982680251
+  - Graying Hair
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2807132773
+  - Hair Extensions
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2295386535
+  - Hair Modding Plus (continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2947607004
+  - Hard Times: Hair and Beards
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3092175321
+  - Hat Hair Control
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3760821540
+  - Holograms And Projectors
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2847321165
+  - Imperial Attires
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3465257079
+  - Kid Apparel Expanded
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3548557988
+  - Kinky Bodystraps
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3030158240
+  - Koi's Mech-Androids for 1.6
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3704669419
+  - Korg facial animations
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3794287961
+  - Lily-Style Pack
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3748934221
+  - Liya's Boy Hair
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3710288647
+  - Liya's Hair
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3668890565
+  - Liya's Hair Part 2
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3671621107
+  - Liya's Hair Part 3
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3764089935
+  - LusTech Modern Camo Styles (for Combat Extended)
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3489407179
+  - Medieval Overhaul Extra Signs
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2967087032
+  - Melee Animation
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2944488802
+  - Melee Animation Vanilla
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3541917234
+  - Metal Guitar Voice Gene
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3618428060
+  - Miniature Props and Decor
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3579351912
+  - Misstall's Furniture
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3688166182
+  - Molong facial animations
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3789484706
+  - Monochrome Impid Hairs
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3509800074
+  - More and Retextured Head Shapes for VTE for Facial Animation
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3407049972
+  - More Mini-Horns
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3151668881
+  - Morphs Assorted: No Crushed Bodies
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2796436183
+  - Morphs Assorted: Tattoos
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2961314564
+  - Muzzle Flash
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2917732219
+  - Nice Short Female Hairs
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3316363751
+  - Nixte's Hair Salon
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3785962373
+  - No Blush - Vanilla Facial Animations
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3294973192
+  - No Random Apparel on Ideology Edit
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2669243201
+  - Office Supplies
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3394085110
+  - Oracle's Miscellania
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3279582979
+  - Outland - More Floors
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2873199953
+  - Panels, Frames & Stairs
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2844647879
+  - Pesky's Arcanist Ideology Style Pack
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3370539088
+  - Ponpeco Furnitures : Kids' Room
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3367310887
+  - Ponpeco Furnitures : Sci-Fi
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3610234567
+  - Ponpeco Pajamas
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3482959515
+  - Preschooler Clothes
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2937387968
+  - Prim's Hair
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3416781129
+  - Prosthetic No Missing Body Parts (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2739055353
+  - Pumpkin Hairstyles
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3783859385
+  - Pumpkinlass: Veils and Scarves
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3791107642
+  - Racing Stripes
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3725622983
+  - Reel's Facial Animation Textures
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3118315633
+  - Reese's Dirtmole Glowup - VE Facial Animation Support
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3667814780
+  - Restrict Undrawn Apparel
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3629753146
+  - Retextured Apparel 1.5 (Apparel Textures only)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3233585231
+  - Rick and Morty Hairs 1.6 (Forked)
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3535830142
+  - Rimbody
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3354086860
+  - Rimbody - Stat Module
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3373263045
+  - Rimbody Vanilla-Style Integration Patch
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3734917610
+  - Rimsenal Style Pack - Murica
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2824711444
+  - Rimsenal Style Pack - Sophian
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2655926624
+  - Rimsenal Style Pack - Techist
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2661828028
+  - Rimsenal Style Pack - Urbworld
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2908039338
+  - Romascita Style pack
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3277109336
+  - Roo's Birthmarks and Blemishes
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2890180936
+  - Roo's HD Dreadlock Hairstyles
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2902544033
+  - Roo's HD Hairstyles
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2551783208
+  - Roo's HD Royalty Hairstyles
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2860821574
+  - RowMart Stylepack
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3503142907
+  - RR's Furniture pack-Collection Longyun
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3364971921
+  - RR's Furniture pack-Collection Rapture
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3310690878
+  - Rusty's Foliage Hair
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3646973576
+  - Rusty's Hair
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3636356090
+  - Save and Load Ideoligion Hair
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2820645169
+  - ScrubDaddy's Hairstyles
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3536769145
+  - Sexier Visage Masks
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3638159640
+  - Show Me Your Tools - Forked
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3774821567
+  - Signs and Comments Fixed
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3656641385
+  - Simple FX: Smoke Continued
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3261314247
+  - Simple HD Bodies
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3236876098
+  - SimpleStairs (Fork)
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3526906079
+  - Sin's Softer Hair Colors
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3790361865
+  - Stationhouse Supplies
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3432907335
+  - Stoneborn - Dwarven Style Pack
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3172496453
+  - Stylized Slave Collars and Headgears
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3040600773
+  - Sun & Moon Beams - 动态光束
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3616506033
+  - Tacticool Ops
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3560450391
+  - Tastier Vanilla Clothes
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2808554143
+  - Tattoo Face Scars
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3792233113
+  - Tech Tattoos
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2789726696
+  - Teto Hair Mod
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3291665183
+  - The Progression Content | (2/3)
+    [1/3 Core pack, 3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3521319712
+  - The Progression Cosmetics | (3/3)
+    [1/3 Core pack, 2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3637541646
+  - The Progression Modpack [1.6]
+    [2/3 Content, 3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3521297585
+  - The Vanity Project - Beards
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3143138787
+  - transparent skin genes
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3031713201
+  - Tribal Tattoos
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2782262247
+  - Trumpet Voice Gene
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3616823452
+  - UNAGI Another Duster Coat
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3253300748
+  - UNAGI Apparel MOD Winter clothing
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3266399912
+  - UNAGI Royalty Apparel
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3352990362
+  - UNAGI_Hair1
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3244456989
+  - UNAGI_Hair2
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3248775397
+  - Useless Hair (Continued)
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3044216509
+  - User Media Props
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3359330248
+  - VA-11 Hall-A Jill Hair
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3237918783
+  - Vanilla Apparel Expanded
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1814987817
+  - Vanilla Beards Retextured
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2777098392
+  - Vanilla Beards Retextured + Stubbly Facial Hair
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3292205371
+  - Vanilla Hair Expanded
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=1888705256
+  - Vanilla Hair Retextured
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2748834409
+  - Vanilla Ideology Expanded - Icons and Symbols
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2552609458
+  - Vanilla Ideology Expanded - Sophian Style
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3194606539
+  - Vanilla Races Expanded - Custom Icons
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2917311689
+  - Vanilla Textures Expanded - [NL] Facial Animation
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2816938779
+  - VFE Spacer More Interactive Table Screen Colors
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3009793725
+  - Victorian decorations
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2937276828
+  - Victorian Era Apparels!
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2814195394
+  - VRE Lycanthrope Chest Fur as Body Attachment
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3779356473
+  - Warcasket Workshop
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3795300753
+  - Whaleys Props
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3523190580
+  - Wing's Hats for Mechanoids
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3547284056
+  - Won Hair Men Retextured
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3132223302
+  - Won Hair Women Retextured
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3132223639
+  - Won hair_men
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=1879950403
+  - Won hair_women
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=1886150617
+  - Yayo's Animation (Continued)
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2877292196
+  - Yayo's Caravan (Continued)
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2886919774
+  - Z.O.N.E.R. style pack
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3293128701
+  - 哥特式吸血鬼家具--死眠棺材床 Gothicstyle Vampire Furniture--CoffinBedCanBeDeathRest
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3261636943
+
+------------------------------------------------------------------------
+Audio & music  (9)
+------------------------------------------------------------------------
+  - Actually Vanilla Music Expansion
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2958708020
+  - Cat Hiss
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3523843973
+  - More Birds - Songbirds
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3555975161
+  - Music Blocker (屏蔽音乐)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3629452893
+  - Music Manager (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3220120457
+  - Music Manager Combat Glow
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3751795793
+  - Music Manager Search
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3730792365
+  - P-Music
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=725130005
+  - Progression: Soundtrack
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3620726714
+
+------------------------------------------------------------------------
+Patches & compatibility  (27)
+------------------------------------------------------------------------
+  - 1trickPwnyta's Anomaly Patch
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3242000764
+  - 1trickPwnyta's Odyssey Patch
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3578444636
+  - Alpha Animals Patch for Outposts Mines
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2704392053
+  - Basic Dropdowns Replace Stuff Patch
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3785075223
+  - Belt Extractors - VFE Factory Patch
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3694555789
+  - Compatibility On Hover
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2911939966
+  - Compatibility Patch for Integrated Implants and Bionic Modularity
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3749402559
+  - DBH & VFEC/Hot Spring Compatibility
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2949772583
+  - Dryads & Gauranlen Trees Rework + Vanilla Ideology Expanded - Dryads: Compatibility - Greater Dryads
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3341104907
+  - Faction Territories Patches
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3768849805
+  - FriendRivalPatch
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3228780918
+  - Hospitality + Ideology Patch
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3789536584
+  - Integrated Implants - EPOE Modular Compatibility
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3733014537
+  - Medieval Overhaul ReGrowth 2 Patch
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3648522175
+  - Medieval Overhaul Sleep Accelerator Patch
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3337654864
+  - Opulent Gold - Patches
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3695208570
+  - PATCHED 1.6 [KV] Call Trade Ships
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3513064727
+  - Prepatcher
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2934420800
+  - Resurrect Animals (VPE Patch)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3785523304
+  - Rim-Elves/Medieval Overhaul patch
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3721278193
+  - Roo's Minotaur - Fur Leg Patch
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3759286934
+  - Structure Replacement Patches
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3736074335
+  - Temporary Patches
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3424105991
+  - Vanilla Animals Expanded — Royal Animals Omega Chicken Patch
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2858456535
+  - VFE Production/Farming - Dubs Bad Hygiene Patches (Adopted) (Deprecated)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2766440237
+  - Visual XML Patches
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3570531169
+  - VOE - Progression Mining Patch
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3634124647
+
+------------------------------------------------------------------------
+Research, storytellers & progression  (44)
+------------------------------------------------------------------------
+  - Alfred Ancient - Progression Storytellers
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3579763743
+  - Chester Choose - Progression Storytellers
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3761449697
+  - Dannie Double - Progression Storytellers
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3764123359
+  - Discoveries
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3655992052
+  - Ferny Frantic - Progression Storytellers
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3366158950
+  - Level Up!
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1701592470
+  - Mojave Mask - Progression Storytellers
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3781130446
+  - Peto Progression - Progression Storytellers
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3791277458
+  - Progression: Agriculture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3418017359
+  - Progression: Attire
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3634874325
+  - Progression: Core
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3301868772
+  - Progression: Drugs
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3763005969
+  - Progression: Education
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3590863552
+  - Progression: Factories
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3690565613
+  - Progression: Furniture
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3771246586
+  - Progression: Genetics
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3239506998
+  - Progression: Gravship
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3522893553
+  - Progression: Hives
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3783411735
+  - Progression: Hospitality
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3265298940
+  - Progression: Kitchen
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3424640315
+  - Progression: Production
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3453408412
+  - Progression: Robotics
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3736402055
+  - Progression: Scenarios
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3378384387
+  - Progression: Storage
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3292746186
+  - Progression: Storytellers
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3361425712
+  - Progression: Temperature
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3253283971
+  - Progression: Therapy
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3753615736
+  - Progression: Verticality
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3416136317
+  - Progression: Warfare
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3422293321
+  - Progression: Warrants
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3270214529
+  - Progression: Worlds
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3534993993
+  - Romina Ready - Progression Storytellers
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3736785369
+  - Save Storyteller Settings
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3744418945
+  - Theming for Progression Modpack
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3493025708
+  - Ultimate Storyteller [1.4-1.6]
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2887952810
+  - Vanilla Storytellers Expanded - Igor Invader (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3582195822
+  - Vanilla Storytellers Expanded - Oskar Obnoxious (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3360164489
+  - Vanilla Storytellers Expanded - Perry Persistent
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2149702069
+  - Vanilla Storytellers Expanded - Winston Waves
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3215569151
+  - Victor Veto - Progression Storytellers
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3745138223
+  - World Tech Level
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3414187030
+  - Yaoma Storytellers - Deathless Daji
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3370165682
+  - Yaoma Storytellers - Farseer Fan
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3448319470
+  - Yaoma Storytellers - Jianghu Jin
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3403972335
+
+------------------------------------------------------------------------
+Pawns, genes, ideology & social  (123)
+------------------------------------------------------------------------
+  - [1.5-1.6] Custom Xenotype Exporter Tool
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3254345251
+  - [AP] Hunting Meme 1.6 (Temp)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3535691822
+  - [LC] Collector Ideology
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3535706184
+  - [LYN] Military Ideology
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3756513437
+  - Adoptive Relationships
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3364083523
+  - Alpha Genes
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502
+  - Alpha Genes Integrated
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3538704272
+  - Alpha Memes
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2661356814
+  - Alpha Skills
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3448953006
+  - Any Pawn Can Repair Mechs
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3673815123
+  - Art-Accurate/Doubled Gene Bank
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3133680465
+  - Auto-Extract Genes
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2882834449
+  - Before the Crash: Backstories
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3457023552
+  - Beliar Xenotype
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3237072670
+  - Better Beggars (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3006899215
+  - Better Gene Inheritance
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3046776238
+  - Better Pyromania
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2624048970
+  - Better Transhumanists
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2269379503
+  - Carrion Eater Gene
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3791527651
+  - Childhood Backstories
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3000770956
+  - Children Can Learn Fast
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2976384929
+  - Childrens' Traits Affect Learning
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2977564653
+  - Climate Preference Genes
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2980961512
+  - Colonist Bar Dividers
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3749216803
+  - Conservationist and Polluter - Mort's Ideologies: Memes and Precepts
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2936965087
+  - Consistent Gene Inheritance (1.6 VERSION)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3225695697
+  - Cryptosleep Adaptation Gene
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2898683114
+  - Cultural names: Stellic
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3161247581
+  - Cyanobot's Genes
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2889844371
+  - Cybranian - Ideology Virtues
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3459205505
+  - Cybranian - Social Interface
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2854221326
+  - Dark Psychic Rituals: The Following
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3596468709
+  - Det's Xenotypes - Avaloi
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3199692643
+  - Det's Xenotypes - Boglegs
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3146564944
+  - Det's Xenotypes - Brawnum
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3429572581
+  - Det's Xenotypes - Half-foot
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3530817307
+  - Det's Xenotypes - Keshig
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3376864722
+  - Det's Xenotypes - Stoneborn
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2888722722
+  - Det's Xenotypes - Venators
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3140248688
+  - Devourer Escape Gene
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3783780424
+  - Dignified Empire Names
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3530589531
+  - Dismiss Beggars
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3779519901
+  - Do The Rituals Yourselves
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3511385838
+  - Elosth's Pawn Presets
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3719680719
+  - Geist Xenotype
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3564732214
+  - Gene Bank Indicators
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3265067908
+  - Gene Extractor Log
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3706000694
+  - Gene Ledger
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3673202834
+  - Gene Ripper
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3524806362
+  - Gene-Ripper Gene
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3596481890
+  - Genetics! Mushkin
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3694372857
+  - Gojis-Misc-Genes
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3775114861
+  - Goliann Xenotype
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3541961078
+  - Goodwill Preview
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3695225114
+  - Guarding Pawns
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3114183220
+  - Guarding Pawns - Subtle Spots
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3422991870
+  - Highborn Xenotype
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3380776687
+  - I'm Trying To Save You! (Pawn Dressing Rework)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3534863993
+  - Impressionable Children
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2879996327
+  - Inject Genes
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2918091446
+  - Inspiration Tweaks
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2117570018
+  - Inspired Conversion
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2851390190
+  - Kabouter Xenotype
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3792986331
+  - Korg Xenotype
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3793104547
+  - Leader's Harem (Ideology Meme)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3757032079
+  - Metalhorror Immunity Gene
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3229318714
+  - Molong Xenotype
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3789407175
+  - More Drug Genes
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3013604316
+  - More Fire Resistance Genes
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3000564841
+  - More Informative Ideology
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3761561660
+  - More Ritual Rewards
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2582489076
+  - More Ritual Seats
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3411913071
+  - Most Skilled Bill Restriction
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3757516418
+  - Nationalist Structures - Mort's Ideologies
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2961657515
+  - New Ritual Rewards
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3680590908
+  - Numbers Trait AddOn
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2068856562
+  - Nuzzle gene
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3148538954
+  - Offspring Inherit Xenogenes (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3266000468
+  - Pawn Editor Forked
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3667931113
+  - Pawn Name Variety (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3548290568
+  - Pawn Notes
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3400513584
+  - Pawn Perspective
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3718719179
+  - Pawns on Display
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3446605621
+  - Platonic Relationships
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3395394391
+  - Please use the pews ! (Ritual Seats Range Fix)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3792610727
+  - Political Compass - Mort's Ideologies
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2932322843
+  - Polyamory Trait
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3760161846
+  - Psilocap Genes
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3617867097
+  - Rename Pawns
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2582635772
+  - Right Click to Toss Carried Pawn
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3779630220
+  - RimTraits - Vanilla Trait Colors
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2244594116
+  - Ritual Filter
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3731965187
+  - Ritual Size Attenuation [1.5+]
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3262033797
+  - Roo's Faun Xenotype
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3547220635
+  - Roo's Minotaur Xenotype (1.6)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3548423129
+  - Roo's Minotaur Xenotype Expanded (1.6)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3550835154
+  - Roo's Satyr and Faun Xenotypes Expanded (1.6)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3548973881
+  - Roo's Satyr Xenotype (1.6)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3548322381
+  - Selective Bioregeneration
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3217675412
+  - SelectPawnByBed
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3249707052
+  - Skilled Slaughtering
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2873284405
+  - Slaughtering Meme
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3151598704
+  - Social Experience from Trade
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3400608063
+  - Spawn Mod Content
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2922590693
+  - T's Conversion Staff
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2890481507
+  - Technology Helps Children Learn Fast
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3143523052
+  - The Sims Traits
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3604588393
+  - Tribal Backstories
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2879649038
+  - Unlimited Preferred Names
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3621628559
+  - Vanilla Backstories Expanded
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2861806869
+  - Vanilla Base Generation Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3209927822
+  - Vanilla Genes Rebalanced
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2905707100
+  - Vanilla Genetics Expanded
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2801160906
+  - Vanilla Genetics Expanded - More Lab Stuff
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2810324444
+  - Vanilla Ideology Expanded - Hats and Rags
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2567387768
+  - Vanilla Ideology Expanded - Memes and Structures
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2636329500
+  - Vanilla Ideology Expanded - Relics and Artifacts
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2564895018
+  - Vanilla Skills Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3400246558
+  - Vanilla Traits Expanded
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2296404655
+  - VFE Traits Addon - Smoker
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3312677057
+  - Wild Crops, a fork of Wild Spawn
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3776658466
+  - Xenotype Pawn Preview
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3725418207
+  - Xenotype Summary
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3710012135
+
+------------------------------------------------------------------------
+Animals & wildlife  (38)
+------------------------------------------------------------------------
+  - [EN] Unagi Animal Mod Big Pom English Translation
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3511764759
+  - [JF] Royal Carpets
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2977701969
+  - Allow Dead Animals
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2403873031
+  - Alpha Animals
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1541721856
+  - ANDH - Animals Nuzzling Detects Horrors
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3230195082
+  - Animal Biosculpter
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2883571601
+  - Animal Cages (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3416360282
+  - Animal Sarcophagus
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2876565401
+  - Animal Traits System
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3652630316
+  - AnimalHarvestingSpot (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1542765654
+  - Animals are fun! (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3245454244
+  - Auto Animal Flap
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3236726779
+  - Better Animal Info
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3666446844
+  - Bionic modularity - animals
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3589157997
+  - Cats Hunt For Fun
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2827497888
+  - Discontinued  - Animal Medical Bed
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2880353853
+  - Dryads & Gauranlen Trees Reworked
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3334448055
+  - Floor Pipette Tool
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3706877822
+  - Giddy-Up 2 - Continued
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3674332861
+  - Grazing Area
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3769685249
+  - Hunt for Me
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1593245720
+  - More animal beds
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3107972819
+  - More Milkable and Shearable Animals
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3453878341
+  - Odyssey Animal Voice Genes
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3552053232
+  - Omnivore Animals
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3544122256
+  - Pipette Tool
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2787342464
+  - Sit! - Simple Pet Stay
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3787205154
+  - Statue of Animal (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3407427159
+  - Style Revised - Animalist
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651
+  - UNAGI Animal MOD ビッグポメ
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3289658674
+  - Vanilla Animal Voice Genes
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3639550391
+  - Vanilla Animals Expanded
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2871933948
+  - Vanilla Animals Expanded — Endangered
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2366589898
+  - Vanilla Animals Expanded — Royal Animals
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2858079457
+  - Vanilla Animals Expanded — Waste Animals
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2962126499
+  - Vanilla Ideology Expanded - Dryads
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2720631512
+  - Vanilla Psycasts Expanded - Puppeteer
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3033779606
+  - zone dryads
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3543801460
+
+------------------------------------------------------------------------
+Combat, raids & AI  (53)
+------------------------------------------------------------------------
+  - [1.6] CAI 5000 - Advanced AI + Fog Of War (continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3673768803
+  - [CNEIO] More Reasonable Mortars
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3586669021
+  - [DR] Dream's Damage Indicators
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3789796309
+  - [SR]Factional War (fork)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3423264477
+  - [XND] Profitable Weapons (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2269697598
+  - Alpha Armoury
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3622294464
+  - Art on Neolithic Weapons
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2556397158
+  - CAI 5000 duty fix
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3778359544
+  - Configurable Dynamic Weapon Cooldown
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3611982780
+  - Defensive Positions
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=761219125
+  - Dire Raids (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3259909708
+  - Eltex Weaponry (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3532192464
+  - Fists Aren't Made of Steel
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2845980214
+  - Friendly Fire Tweaks (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3591533573
+  - Grenade Sacrifice
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3756541604
+  - Gunplay
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2034896549
+  - HALO: Rimworld Psychic Pulse Armory (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3507626861
+  - Healer Mech Serum Choice
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2714095848
+  - Holsters
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2610120706
+  - Hussar Weapon Aptitude Remake
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3151089982
+  - Impact Weaponry - Reloaded
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3538728067
+  - Ion Weaponry (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3532877485
+  - KlopKots Target Priority
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3515285485
+  - Laser Weapons: Re-Examined
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3451325196
+  - Layers: Capes and Armor
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3344566457
+  - LusTech Unique Weapons
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3597400817
+  - Mortar Accuracy
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1729446857
+  - Phase Weaponry
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3222694245
+  - Phase Weaponry - Revert Man in Black Change
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3328573858
+  - Prisoners Should Fear Turrets
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2602436826
+  - Pulse Weaponry
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3077879089
+  - Raiders Inherit
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3782411214
+  - Raids For Me
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1633517937
+  - Reel's Turret Pipeline
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3424132769
+  - Show Weapon Tallies
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2901520677
+  - Smart Turret Covering
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2636621800
+  - Turret exclusion area
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3632559268
+  - Turrets Shoot Hunting Predators
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3221646589
+  - Unique Melee Weapons
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3776637622
+  - Vanilla Armour Expanded
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1814988282
+  - Vanilla Persona Weapons Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2826922787
+  - Vanilla Prestige Specialist Armours Reworked
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3246196440
+  - Vanilla Weapons Expanded
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1814383360
+  - Vanilla Weapons Expanded - Bioferrite
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3287469135
+  - Vanilla Weapons Expanded - Coilguns
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2375692535
+  - Vanilla Weapons Expanded - Frontier
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2454918139
+  - Vanilla Weapons Expanded - Heavy Weapons
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2329126791
+  - Vanilla Weapons Expanded - Laser
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1989352844
+  - Vanilla Weapons Expanded - Makeshift
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2419690698
+  - Vanilla Weapons Expanded - Non-Lethal
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2454918354
+  - Vanilla Weapons Expanded - Tribal
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2454918552
+  - Volt Weaponry
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3551721422
+  - Warcasket weaponry hyperlinks
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2819075870
+
+------------------------------------------------------------------------
+Building, production & storage  (65)
+------------------------------------------------------------------------
+  - [1001] Unofficial Vanilla Outposts Expanded Expanded: Trading (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2889112010
+  - [DHM]Wallpenmarker
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3707830801
+  - [Og] Automatic Power Switch
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3031634496
+  - [OWL] Mercenary Outposts Expanded
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3651517872
+  - [QoL] OpenDatDoor
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3436298489
+  - [sbz] Bookcase
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3789304104
+  - [sbz] Cryogenic Tank
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3517096449
+  - [sbz] Fridge
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3486264784
+  - [sbz] Gravship Storage
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3537905298
+  - [sbz] Neat Storage
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3416243474
+  - Adaptive Primitive Storage
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3400037215
+  - Advanced Moisture Pump (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2880970348
+  - Alpha Crafts
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3382446150
+  - Appliances Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2869098359
+  - Beautiful Outdoors
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2011794898
+  - Big and Small Furniture
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3024478368
+  - Blueprint Material Debt (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3023764871
+  - Blueprints Forked - 1.6
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3525001145
+  - Boathouse Doors
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3309340255
+  - Bulk Stonecutting (Forked)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2594241153
+  - Cables and Plumbing - Spliced & Wyed
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3762131739
+  - Effective Lumbering
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1589124288
+  - Even Storage
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3684119183
+  - Fix Styled Blueprints
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2957953663
+  - Flickable Storage
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2497907804
+  - Flooring Floors
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3531114826
+  - Floors Are (Absolutely) Worthless
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2960126462
+  - Garage Doors Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3282003939
+  - Hamster Wheel Generator (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3167447860
+  - Helixien Gas Production
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2829208414
+  - Hull Style: NANAME Walls
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3543791340
+  - Human Power Generator Mod
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1706030487
+  - Linked Planters
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3037074487
+  - Medieval Overhaul: Adaptive Storage
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3425601715
+  - Outpost Manager
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3636270694
+  - Personal Doors (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3592669060
+  - PocketMap Architect Fix
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3386472432
+  - Reduce Skipdoor Distortion Effects
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3111751800
+  - Reel's Expanded Storage
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3237638097
+  - Safe Drug Policy Generator
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2582640021
+  - Skipdoor Pathing (Unlimited)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3605522450
+  - Smarter Construction
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2202185773
+  - Smooth Walls First, then Smooth Floor
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2349483795
+  - Steve's Doors
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3141057381
+  - Steve's Walls
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2616538981
+  - Storage Stats in Description
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3740185419
+  - Vanilla Furniture Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1718190143
+  - Vanilla Furniture Expanded - Architect
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2608762624
+  - Vanilla Furniture Expanded - Art
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1968134023
+  - Vanilla Furniture Expanded - Factory
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3686924415
+  - Vanilla Furniture Expanded - Farming
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1957158779
+  - Vanilla Furniture Expanded - Power
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2062943477
+  - Vanilla Furniture Expanded - Production
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1880253632
+  - Vanilla Furniture Expanded - Props and Decor
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2102143149
+  - Vanilla Furniture Expanded - Security
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1845154007
+  - Vanilla Furniture Expanded - Spacer Module
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2028381079
+  - Vanilla Outposts Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2688941031
+  - Vanilla Outposts Expanded: Additional Outposts
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2873841790
+  - Vanilla Outposts Expanded: Delivery Logistics
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3006726393
+  - Vanilla Outposts Expanded: Land On Outposts
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3691989082
+  - Vanilla Quests Expanded - The Generator
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3411401573
+  - VQE Generator - Pipe Network Compat
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3556398957
+  - Wall Televisions
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3582096423
+  - Wall Vitals Monitor (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3283745385
+  - Worksites Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3687071198
+
+------------------------------------------------------------------------
+World, biomes, factions & travel  (78)
+------------------------------------------------------------------------
+  - [FSF] Better Pawn Lending Quest
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2551381293
+  - [XND] Memorable Auroras (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2270039395
+  - Alien Biome Remover
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3628698653
+  - Alien Worlds - Arctic
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3626213617
+  - Alien Worlds - Dreamworld
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3627997934
+  - Alien Worlds - Gas Giant
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3786620127
+  - Alien Worlds - Gloomworld
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3704140230
+  - Alien Worlds - Hellworld
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3623866960
+  - Alien Worlds - Nightworld
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3627921921
+  - Alien Worlds - Tidally Locked
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3631364335
+  - Alien Worlds - Toxic
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3627135618
+  - Alien Worlds Sea Caravan Fix
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3631844098
+  - Alpha Biomes
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1841354677
+  - Always Position Gravship on Landing
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3738322550
+  - Arsenal - Orbital Security
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3688808936
+  - Better Distress Signal
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3305489753
+  - Biome Transitions
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2814391846
+  - Biomes! Fossils
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3100958580
+  - Caravan Ghouls
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3227732522
+  - Caravan Mood Buff
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2680751877
+  - Caravan Skill Sort
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3676122231
+  - Cybranian - Faction Interface
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2854657718
+  - Cybranian - Vacworld
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3540021036
+  - Debt-Bound Gravship
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3529144158
+  - Don't Swim in Marsh
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3648932221
+  - Eventide Warcasket
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3536153812
+  - Faction Display Fix
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3617583630
+  - Faction Lens
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3778464096
+  - Faction Territories and Vassalage
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3626725895
+  - Forsaken Faction For Alpha Genes
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3367948914
+  - Geological Landforms
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2773943594
+  - Go Explore!
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1814100216
+  - Gravship Captain Set
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3528780638
+  - Gravship Cutscene Speed
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3787398983
+  - HEAVY Snow
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2912575354
+  - IceWorld: Ice Fishing
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3531887595
+  - Instant Caravan
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3165744287
+  - Leo - Events
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3730168769
+  - Limit Quest Pawns
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2898408684
+  - Map Preview
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2800857642
+  - More Gravship Workbenches
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3714981583
+  - More Pause Events
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1874708724
+  - No Disabled Factions In Quests
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2892125637
+  - Noobert's Event Scheduler (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3178111019
+  - Orbital Station Start
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3773528576
+  - Quest Generation Tweaks
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3625994394
+  - Questing Meme
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2826539854
+  - Real Faction Guest (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2886929245
+  - Reel's Insector Faction
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3309022698
+  - ReGrowth 2 World Map Beautification for Alpha Biomes
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3564679302
+  - Rimworld: Soundscape Enhanced
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3276642170
+  - Scenario Backstory
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3637859256
+  - Sensible Factions (Faction distributor)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3531306011
+  - Show work site faction relations
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3487185451
+  - Snow Crawler (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3558174046
+  - T's Samurai Faction
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2559958496
+  - Technical map Vehicles
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3438366909
+  - Trader ships
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2046222331
+  - Trader Show Xenotype
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3007612546
+  - Vanilla Events Expanded
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1938420742
+  - Vanilla Factions Expanded - Classical
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2787850474
+  - Vanilla Factions Expanded - Deserters
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3025493377
+  - Vanilla Factions Expanded - Empire
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2938820380
+  - Vanilla Factions Expanded - Insectoids 2
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3309003431
+  - Vanilla Factions Expanded - Medieval 2
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3444347874
+  - Vanilla Factions Expanded - Pirates
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2723801948
+  - Vanilla Factions Expanded - Settlers
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2052918119
+  - Vanilla Factions Expanded - Tribals
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3079786283
+  - Vanilla Gravship Expanded - Chapter 1
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3609835606
+  - Vanilla Landmarks Expanded
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3656316229
+  - Vanilla Quests Expanded - Ancients
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3618306875
+  - Vanilla Quests Expanded - Cryptoforge
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3461526070
+  - Vanilla Quests Expanded - Deadlife
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3497226454
+  - Vanilla Quests Expanded - Drone Factory
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3733951755
+  - VFME - Caravan Packs!
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2255432128
+  - We Had a Trader? (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1541408076
+  - Winter Taiga Biome 2
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3666855302
+  - World Map Enhanced (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3599967849
+
+------------------------------------------------------------------------
+Needs, medical & hygiene  (35)
+------------------------------------------------------------------------
+  - [FM] DBH Addon: Expanded Pack
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3125246043
+  - [HRK] Medieval deathrest coffin
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2881104575
+  - Bed Rest For Food Poisoning
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2567901366
+  - Better Vomit
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3309016770
+  - Corpse Cleanup Ritual: Harbinger Feast
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3466810423
+  - Corpse Cover
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3769703665
+  - Corpse Description Fix
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3639910228
+  - Corpse info
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2913588675
+  - CorpseTab
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2599842476
+  - Deathrest Pauses Biological Age
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2940569974
+  - Dress a Corpse
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3663042682
+  - Dubs Bad Hygiene
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=836308268
+  - Dubs Bad Hygiene - Stop pathing through pools
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3650218489
+  - Dubs Bad Hygiene: StallDoorFix
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3451039220
+  - Food Poison Nerf
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2877374009
+  - Food Poisoning Stack Fix (Continued)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2843483188
+  - Ghoul Corpse Filter
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3264196725
+  - Hemogen Pack - Emergency transfusion
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3778942862
+  - Hospital
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2992224079
+  - Hospitality (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3509486825
+  - Hospitality: Casino
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2939292644
+  - Hospitality: Spa
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2971831654
+  - Hospitality: Storefront
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2952321484
+  - Hospitality: Vending machines
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3014885065
+  - Injured Carry
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2413690575
+  - IVF Equality
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2922603310
+  - Keep Burning, Corpse!
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3717835691
+  - Limitless Deathrest
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2880595382
+  - Medical Dissection
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1328216966
+  - Medical Expansion - Addiction Treatment
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3713354466
+  - Medical Expansion - Vaccines
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3705179186
+  - More IVF Info
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3690674058
+  - Remove Bad Hygiene Wiki
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3725157711
+  - Transhumanist Medical Specialist
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2806248695
+  - Vanilla Furniture Expanded - Medical Module
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1718191613
+
+------------------------------------------------------------------------
+Content packs & major expansions  (219)
+------------------------------------------------------------------------
+  - [Alpha] Anomaly Remix: Gray Pall
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3657090812
+  - [CF] VRE - Lycanthrope Better Parts
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3578135470
+  - [DHM]MyDogsHouse
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3490848177
+  - [TW1.6]幻彩林地 Rainbow forest
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3532501549
+  - Alpha Books
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3403180654
+  - Alpha Implants
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3275091331
+  - Alpha Mechs
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2973169158
+  - Alpha Prefabs
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3070780021
+  - Alpha Random
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3642631969
+  - Altered Carbon 2: ReSleeved
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2196278117
+  - Ambiguous Anomaly
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3266425876
+  - Anomaly Fleshbeasts or Sarg Fleshbeasts?
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3234422589
+  - Aonyx Cinerea 亚洲小爪水獭
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3539632325
+  - Apex Mechanoids
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3792325789
+  - Aquariums!
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3478462020
+  - Archeankin - Phytokin
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3703107323
+  - Astrofuel gear
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3703688092
+  - Back For Vengeance
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3761967749
+  - BallGames
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2845856763
+  - Bandage Wraps 1.6 (Fork)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3535716415
+  - Barn Stall (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2071768301
+  - Better autocasting for Vanilla Psycasts Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3199585285
+  - Big Graves and Sarcophaguses
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3304095842
+  - Bioform Matrix
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3535848372
+  - Biological Warfare
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3221550806
+  - Bionic modularity
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3589154549
+  - BioReactor (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3307031939
+  - BorderCollies
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2261957667
+  - Bundle of Trinkets
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3592047709
+  - Carbonite Casket
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3601154862
+  - Cash Register (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3509487668
+  - Cellcycle Acceleration
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3727646270
+  - Charmweaver: Pregnancy Precepts
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3228086397
+  - ChezhouLib
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3595247479
+  - Clocks
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3050079733
+  - Coilguns Addon
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3788730287
+  - Cooking Specialist
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3753995127
+  - Crypto Coffins | Fork by [ETF]
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3567860241
+  - Cuter Biotech Cat/Dog Ear Replacer
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2878864038
+  - Cybranian - Anomaly Lich
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3721499873
+  - Dark Ages : Beasts and Monsters
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3472275628
+  - Dark Ages : Crypts and Tombs
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2963826335
+  - Die for me (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2403695576
+  - Disco!
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2436747646
+  - DLG. Mutations behind ][ Mutated limbs grow from the back ][ off the back ][ Anomaly redalgamored
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3637525997
+  - Dumbs' Dachshunds (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3646509270
+  - Eccentric Extras - Beach Stuff
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3066838193
+  - Electric Igniter
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1716086112
+  - Enhanced Vanilla Gun Sounds Revived
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3003419651
+  - Enhanced Vat Learning
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3551263267
+  - Epochs - Golems
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3609646528
+  - Epochs - Incense
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3072579620
+  - Epochs - Pyrinth
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3336544632
+  - EPOE-Forked: Expanded Prosthetics and Organ Engineering - Forked
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1949064302
+  - EPOE-Forked: Royalty DLC expansion
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2008970276
+  - Erin Eccentric
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2967829336
+  - Erin's Fluffy Fauna
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3521909777
+  - Erin's Great Pyrenean Mountain Dogs
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2761001056
+  - Features Gap Fix
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3753339482
+  - FEB's Biopunk Livestock
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3556058978
+  - FirefliesTwo
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3347026598
+  - Firefoam Things
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2885014197
+  - Fireworks
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2922179297
+  - Gastronomy (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3509488152
+  - Glittertech Expansion
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3522676478
+  - Grimstone : Beasts 1.6 (Forked)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3535302121
+  - Hacking Expansion
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3573344880
+  - Hamster 
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2848286000
+  - HarbingerKin - Phytokin
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3522734130
+  - Heavy Truck
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3556798940
+  - Helixien Gas Boiler
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2765741088
+  - Helixien Gas Brazier
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2770815124
+  - Holo Dancers
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3599306604
+  - Hunter Mechanoid
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3018267953
+  - Hussar Cloning Platform
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3663529617
+  - Industrial Hardleather, Concrete and Cheese
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3535926848
+  - Infiltrator Protocol
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3793533339
+  - Integrated Implants
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3223443793
+  - Invisible Display Case Continued
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3546566196
+  - Lanterns (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3266721359
+  - Leader's Harem - Harem Rite
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3760531506
+  - Legendary Boss
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3538894636
+  - LEVIATHANS: HIVE LORD
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3796506579
+  - LEVIATHANS:SANDWORM
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3713982815
+  - Lightless Empyrean Reborn
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3517488959
+  - Linkables Info Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3212476920
+  - Little Critters
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3331281387
+  - Logic Switch
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3723818517
+  - Logistics Mechanoid
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2885430743
+  - Luciferium Expansion
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3227008885
+  - Machines of War
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2853559638
+  - Mass Graves 1.6
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3545739596
+  - Mechanitor Encounters
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3417287863
+  - Mechanoid Invaders
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3418853181
+  - Mechanoid Upgrades
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3365118555
+  - Mechanoid Upgrades - Anomaly
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3375627095
+  - Mechanoid Upgrades - Archotech
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3396928183
+  - Mechanoid Waiter
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3585375106
+  - Medicines+
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2878860499
+  - Medieval Adventures: Implants
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3397035499
+  - Medieval Overhaul: House Roxmont
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3526042587
+  - Megafauna
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1055485938
+  - Memorial Stele
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3497828669
+  - Milk Pipe Network
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2988129340
+  - More Birds - Doves
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3557967460
+  - More Hunter Drones
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3532453334
+  - Museums
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3204176859
+  - Mushroom Gravy
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3741803826
+  - Mythic Ages: Megafauna Bestiary
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3537788184
+  - Non-Lethal: Re-Examined
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3455926746
+  - Opulent Gold
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3138887051
+  - Pack Your Craw
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3785541749
+  - Penitent Specialist
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3756595684
+  - Police Uniforms
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3474720857
+  - Polyamory Beds (1.5+)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3276496684
+  - Power Poles
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2507086460
+  - Power Poles Extended
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3339142899
+  - Power Poles uninstall fix
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3793846993
+  - Prisoner Arena (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2022581505
+  - Real Flamethrowers
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2949407070
+  - ReGrowth 2: Aspen
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2545774148
+  - ReGrowth: Boiling
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3565675704
+  - ReSplice: Charmweavers
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3131996691
+  - Reverse Engineered Region Adjusters
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2982567135
+  - RhodesianRidgebacks
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2076237940
+  - Rim-Elves
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3028702598
+  - Rim-Gnoblins
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3018569666
+  - RimJoust
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3743710674
+  - Rimmessian Fox
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3708558259
+  - RimToll
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3775890690
+  - River's Tribal Shoes
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2797271174
+  - Roo's Painting Expansion
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2881104358
+  - Royal Thrumbos (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2846919540
+  - Royalty eye bionic
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3244422098
+  - Scrambler Mechanoid
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2983719211
+  - Security Clearance
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3634353108
+  - Security: Re-Examined
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3453919173
+  - Shuttle Dock
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3648642429
+  - Simple Additions: Mech Clusters
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3530804388
+  - Simple Additions: Starfire Boss
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3656792230
+  - Simple Immersion - Alpha Random
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3666245772
+  - Simple Immersion - VBE Coffees and Teas
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3681298244
+  - Simple Warrants
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2676828755
+  - Skull Throne
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3386810576
+  - Skunks
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3775906812
+  - Spacer Arsenal
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3247891820
+  - Standing Cryptopods
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2765538832
+  - Stoneborn - Delights
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3106413957
+  - Surrogate Mechanoid
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3246748490
+  - T's Seal the Spirits : Tribal Anomaly
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3228158975
+  - Taste of Vanilla - Flaks and Plates
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3526444119
+  - Temperature Gauge (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2017464494
+  - Transparent Substructure
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3522762741
+  - Trauma Team Missions
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3757554739
+  - UNA English Translations
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3513879867
+  - Vanilla Anomaly Expanded - Insanity
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3342412435
+  - Vanilla Arsenal
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3273371966
+  - Vanilla Backgrounds Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2775017012
+  - Vanilla Brewing Expanded
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2186560858
+  - Vanilla Brewing Expanded - Coffees and Teas
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2275449762
+  - Vanilla Chemfuel Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2792917473
+  - Vanilla Cooking Expanded
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2134308519
+  - Vanilla Cooking Expanded - Bakery
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3590516685
+  - Vanilla Cooking Expanded - Haute
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3455694362
+  - Vanilla Cooking Expanded - Stews
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2134312965
+  - Vanilla Cooking Expanded - Sushi
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2158539170
+  - Vanilla Expanded: Hero Backgrounds
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3313700572
+  - Vanilla Fishing Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=1914064942
+  - Vanilla Fishing Expanded - Fishing Treasures AddOn
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2468543398
+  - Vanilla Fix: Haul After Slaughter
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2801452324
+  - Vanilla Food Variety Expanded
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3334272487
+  - Vanilla Helixien Gas Expanded
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2877699803
+  - Vanilla Nutrient Paste Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2920385763
+  - Vanilla Plants Expanded
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2134308522
+  - Vanilla Plants Expanded - Flowers
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3748351639
+  - Vanilla Plants Expanded - More Plants
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2748889667
+  - Vanilla Plants Expanded - Mushrooms
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3006389281
+  - Vanilla Plants Expanded - Succulents
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2198652536
+  - Vanilla Psycasts Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2842502659
+  - Vanilla Psycasts Expanded - Hemosage
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2990596478
+  - Vanilla Psycasts Expanded - Runesmith
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3339063087
+  - Vanilla Races Expanded - Android
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2975771801
+  - Vanilla Races Expanded - Fungoid
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3042690053
+  - Vanilla Races Expanded - Genie
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2901424072
+  - Vanilla Races Expanded - Highmate
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2995385834
+  - Vanilla Races Expanded - Hussar
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2893586390
+  - Vanilla Races Expanded - Insector
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3260509684
+  - Vanilla Races Expanded - Lycanthrope
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3114453100
+  - Vanilla Races Expanded - Phytokin
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2927323805
+  - Vanilla Races Expanded - Pigskin
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3164798809
+  - Vanilla Races Expanded - Sanguophage
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2963116383
+  - Vanilla Races Expanded - Saurid
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2880990495
+  - Vanilla Races Expanded - Starjack
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3531912428
+  - Vanilla Races Expanded - Waster
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2983471725
+  - Vanilla Recycling Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3155781848
+  - Vanilla Temperature Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3202046258
+  - Vanilla Trading Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2785616901
+  - Vanilla Vehicles Expanded
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3014906877
+  - Vanilla Vehicles Expanded - Tier 3
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3047892432
+  - Vanilla Vehicles Expanded - Upgrades
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3302208420
+  - Various Space Ship Chunk (Continued)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2014616487
+  - VE Androids - Recluse doesn't count Androids addon
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3255014027
+  - VFE Spacer AddOn
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2816486181
+  - VFE Tribals Auto Gathering
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3781460271
+  - Void Specialist
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3751240132
+  - VPE - Aeromancer
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3548321284
+  - VPE - Anima
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3462136587
+  - VPE - Deadlife
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3471794187
+  - VPE - Geomancer
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3551731617
+  - VPE - Gravcaster
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3526559471
+  - VPE - Hydromancer
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3548321563
+  - VPE - Luminis
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3559834496
+  - VPE - Pyromancer
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3785184597
+  - VRE: Android Auto Swap Reactor
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3363722315
+  - War Crimes Expanded 2 Core (Updated)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3032870787
+  - Warcaskets can haul!
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2730543694
+  - White Noise
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3630774109
+  - Writhing Tree
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3678181731
+  - Zealot Specialist 
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3751234791
+
+------------------------------------------------------------------------
+Unclassified / unavailable  (11)
+------------------------------------------------------------------------
+  - (unavailable 2164584341)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=2164584341
+  - (unavailable 2768240773)
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2768240773
+  - (unavailable 2792624577)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2792624577
+  - (unavailable 2920418046)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2920418046
+  - (unavailable 3015087560)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3015087560
+  - (unavailable 3226502149)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3226502149
+  - (unavailable 3626568203)
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3626568203
+  - (unavailable 3626568306)
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3626568306
+  - (unavailable 3628433732)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3628433732
+  - (unavailable 3680510302)
+    [1/3 Core pack]  https://steamcommunity.com/sharedfiles/filedetails/?id=3680510302
+  - (unavailable 3712465624)
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3712465624
