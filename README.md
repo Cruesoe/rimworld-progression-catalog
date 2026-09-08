@@ -8,6 +8,8 @@ Searchable, filterable list of workshop items from:
 
 **Steam snapshot date: 8 September 2026 (Europe/London)**
 
+**packageId coverage: 1048 of 1474**
+
 **Unique mods: 1474** — Core 860 · Content 425 · Cosmetics 192
 
 **packageId from RimSort steamDB: 1015 of 1474**
@@ -45,3 +47,7 @@ Repo **Settings → Pages → Build and deployment**
 
 - Source: **Deploy from a branch**
 - Branch: `main` / `/ (root)`
+
+## Snapshot notes
+
+- packageIds filled 2026-09-08 Europe/London
