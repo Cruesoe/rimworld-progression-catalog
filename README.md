@@ -8,7 +8,7 @@ Searchable, filterable list of workshop items from:
 
 **Steam snapshot date: 8 September 2026 (Europe/London)**
 
-**packageId coverage: 1071 of 1474**
+**packageId coverage: 1081 of 1474**
 
 **Unique mods: 1474** — Core 860 · Content 425 · Cosmetics 192
 
