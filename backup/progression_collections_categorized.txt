@@ -463,7 +463,7 @@ Quality of life  (52)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2436086611
 
 ========================================================================
-Textures & retextures  (70)
+Textures & retextures  (71)
 ========================================================================
   - [AV] Mechanoid Skins
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3667667489
@@ -539,6 +539,8 @@ Textures & retextures  (70)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3602372541
   - LusTech VWE Coilguns Retexture
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3750587891
+  - Manipulator Beam Emitter Retexture
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3798109974
   - Meat on a Stick (Retexture)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3786054758
   - Meat on a Stick - Expansion (Retexture)
@@ -1737,7 +1739,7 @@ Combat, weapons & raids  (46)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2730543694
 
 ========================================================================
-Building, production & storage  (67)
+Building, production & storage  (68)
 ========================================================================
   - [Og] Automatic Power Switch
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3031634496
@@ -1811,6 +1813,8 @@ Building, production & storage  (67)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3037074487
   - Logic Switch
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3723818517
+  - Manipulator Beam Emitter
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3683998684
   - More Gravship Workbenches
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3714981583
   - No Factory Floor Requirement
