@@ -8,10 +8,9 @@ Searchable, filterable list of workshop items from:
 
 **Steam snapshot date: 8 September 2026**
 
-This is an unofficial helper, not an official Progression site. Categories are inferred from titles and which collection an item sits in.
+**packageId coverage: 1060 of 1472**
 
-Unique workshop items: 1474 (Core 860, Content 425, Cosmetics 192).
-packageId from RimSort steamDB: 1015 of 1474.
+This is an unofficial helper, not an official Progression site. Categories are inferred from titles and which collection an item sits in.
 
 ## Open the catalog
 
@@ -26,7 +25,6 @@ packageId from RimSort steamDB: 1015 of 1474.
 | `backup/progression_collections_categorized.xlsx` | Spreadsheet backup |
 | `backup/progression_collections_categorized.txt` | Plain-text grouped list |
 | `backup/progression_modpack_mods.txt` | Core pack numbered list |
-| `backup/progression_packageids.csv` | Title / workshop ID / packageId |
 
 ## Enable GitHub Pages (if the live URL 404s)
 
@@ -34,3 +32,7 @@ Repo **Settings → Pages → Build and deployment**
 
 - Source: **Deploy from a branch**
 - Branch: `main` / `/ (root)`
+
+## Snapshot notes
+
+- packageIds filled 2026-09-08 Europe/London
