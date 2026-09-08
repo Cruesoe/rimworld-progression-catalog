@@ -10,6 +10,9 @@ Searchable, filterable list of workshop items from:
 
 This is an unofficial helper, not an official Progression site. Categories are inferred from titles and which collection an item sits in.
 
+Unique workshop items: 1474 (Core 860, Content 425, Cosmetics 192).
+packageId from RimSort steamDB: 1015 of 1474.
+
 ## Open the catalog
 
 - Live site (GitHub Pages): https://cruesoe.github.io/rimworld-progression-catalog/
@@ -23,7 +26,7 @@ This is an unofficial helper, not an official Progression site. Categories are i
 | `backup/progression_collections_categorized.xlsx` | Spreadsheet backup |
 | `backup/progression_collections_categorized.txt` | Plain-text grouped list |
 | `backup/progression_modpack_mods.txt` | Core pack numbered list |
-| `backup/progression_packageids.csv` | Title / workshop ID / packageId table |
+| `backup/progression_packageids.csv` | Title / workshop ID / packageId |
 
 ## Enable GitHub Pages (if the live URL 404s)
 
