@@ -23,6 +23,7 @@ This is an unofficial helper, not an official Progression site. Categories are i
 | `backup/progression_collections_categorized.xlsx` | Spreadsheet backup |
 | `backup/progression_collections_categorized.txt` | Plain-text grouped list |
 | `backup/progression_modpack_mods.txt` | Core pack numbered list |
+| `backup/progression_packageids.csv` | Title / workshop ID / packageId table |
 
 ## Enable GitHub Pages (if the live URL 404s)
 
