@@ -6,23 +6,29 @@ Searchable, filterable list of workshop items from:
 - [The Progression Content (2/3)](https://steamcommunity.com/workshop/filedetails/?id=3521319712)
 - [The Progression Cosmetics (3/3)](https://steamcommunity.com/sharedfiles/filedetails/?id=3637541646)
 
-**Steam snapshot date: 9 September 2026**
+**Steam snapshot date: 9 September 2026 (Europe/London)**
 
-**packageId coverage: 1469 of 1471**
+**packageId from RimSort steamDB: 1015 of 1474**
 
-**Unique mods: 1471** — Core 860 · Content 425 · Cosmetics 192 (3 collection pages were removed from the item list)
+**Known packageIds (RimSort + previous overlay): 1469 of 1474**
+
+**Unique mods: 1474** — Core 860 · Content 424 · Cosmetics 190 (3 collection pages omitted from the item list)
 
 This is an unofficial helper, not an official Progression site. Categories are inferred from titles and which collection an item sits in.
 
 ## This snapshot vs previous catalog
 
-Added (2):
+Added (3):
 
-- Manipulator Beam Emitter — 3683998684 (2/3 Content)
-- Manipulator Beam Emitter Retexture — 3798109974 (2/3 Content)
+- StarFix - Continued — 3798550797 (1/3 Core)
+- Better Vomit - Continued — 3798550391 (1/3 Core)
+- Skunks - Continued — 3798549519 (2/3 Content)
 
 Removed: none
-Renamed: none
+
+Renamed (still available): none
+
+Now listed as unavailable (14): already-deleted workshop files now titled `(unavailable {id})` per catalog rules. Predecessor pages for the three new Continued mods are among them.
 
 ## Open the catalog
 
@@ -48,4 +54,7 @@ Repo **Settings → Pages → Build and deployment**
 
 ## Snapshot notes
 
-- packageIds filled 2026-09-09
+- Steam Web API snapshot 2026-09-09 (Europe/London)
+- packageId from RimSort steamDB.json; existing overlay/catalog packageIds kept when RimSort has no row
+- New workshop IDs without a RimSort row are left blank (packageId unknown)
+- Did not download workshop mods via SteamCMD
