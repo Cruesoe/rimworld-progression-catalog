@@ -94,6 +94,21 @@
     position: fixed; bottom: 18px; right: 18px; background: #1b3a2e; color: var(--text);
     border: 1px solid var(--accent); padding: 8px 12px; border-radius: 8px; display: none;
   }
+  @media (max-width: 640px) {
+    header { padding: 14px 14px 10px; }
+    main { padding: 12px 14px 60px; }
+    footer { padding: 8px 14px 24px; }
+    h1 { font-size: 19px; }
+    .search-row { flex-direction: column; align-items: stretch; }
+    .stats { white-space: normal; }
+    .card {
+      grid-template-columns: 1fr;
+      padding: 12px;
+    }
+    .actions { flex-wrap: wrap; }
+    .actions a, .actions button { flex: 1 1 auto; text-align: center; }
+    .toast { left: 14px; right: 14px; bottom: 14px; text-align: center; }
+  }
 </style>
 </head>
 <body>
