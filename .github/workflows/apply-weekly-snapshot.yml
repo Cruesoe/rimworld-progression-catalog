@@ -1,0 +1,29 @@
+name: apply weekly snapshot
+on:
+  push:
+    paths:
+      - .github/scripts/apply_weekly_snapshot.py
+      - .github/workflows/apply-weekly-snapshot.yml
+  workflow_dispatch:
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install openpyxl
+        run: pip install --quiet openpyxl
+      - name: Apply Steam snapshot to catalog
+        run: python3 .github/scripts/apply_weekly_snapshot.py
+      - name: Commit catalog updates
+        run: |
+          git config user.name "Cruesoe"
+          git config user.email "49525542+Cruesoe@users.noreply.github.com"
+          git add index.html backup/progression_packageids.csv backup/progression_collections_categorized.txt backup/progression_modpack_mods.txt backup/progression_collections_categorized.xlsx
+          if git diff --cached --quiet; then
+            echo "no catalog changes"
+          else
+            git commit -m "Weekly snapshot 2026-09-09: +3 mods, -0 (Steam API)"
+            git push
+          fi
