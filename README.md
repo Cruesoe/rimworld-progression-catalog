@@ -49,3 +49,4 @@ Repo **Settings → Pages → Build and deployment**
 ## Snapshot notes
 
 - packageIds filled 9 September 2026 Europe/London: **1469 of 1471**. Remaining 2 are unavailable on Steam (3680510302, 3712465624).
+- Unavailable-on-Steam items: 11 delisted workshop IDs. 9 display names restored from RimSort; 3680510302 and 3712465624 have no known title.
