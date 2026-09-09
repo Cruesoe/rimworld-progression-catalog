@@ -1,15 +1,18 @@
 title,workshop_id,packageId,collection_core,collection_content,collection_cosmetics,category,steam_url
-(unavailable 2164584341),2164584341,murmur.bodypartsrot,1,0,0,Unavailable,https://steamcommunity.com/sharedfiles/filedetails/?id=2164584341
-(unavailable 2768240773),2768240773,mosi.stubblyfacialhair,0,0,1,Unavailable,https://steamcommunity.com/sharedfiles/filedetails/?id=2768240773
-(unavailable 2792624577),2792624577,mosi.vfec.doubletents,0,1,0,Unavailable,https://steamcommunity.com/sharedfiles/filedetails/?id=2792624577
-(unavailable 2920418046),2920418046,azami.alphaanimalsretexture,0,1,0,Unavailable,https://steamcommunity.com/sharedfiles/filedetails/?id=2920418046
-(unavailable 3015087560),3015087560,kupie.vfeallvehiclesrenamable,1,0,0,Unavailable,https://steamcommunity.com/sharedfiles/filedetails/?id=3015087560
-(unavailable 3226502149),3226502149,calltradeships.cavenaugh.rw,1,0,0,Unavailable,https://steamcommunity.com/sharedfiles/filedetails/?id=3226502149
-(unavailable 3626568203),3626568203,jintuzilamian.hairstyle.afuwomenshairstyles,0,0,1,Unavailable,https://steamcommunity.com/sharedfiles/filedetails/?id=3626568203
-(unavailable 3626568306),3626568306,jintuzilamian.hairstyle.afumenshairstyles,0,0,1,Unavailable,https://steamcommunity.com/sharedfiles/filedetails/?id=3626568306
-(unavailable 3628433732),3628433732,xubisca.mightylivertweak,0,1,0,Unavailable,https://steamcommunity.com/sharedfiles/filedetails/?id=3628433732
-(unavailable 3680510302),3680510302,,1,0,0,Unavailable,https://steamcommunity.com/sharedfiles/filedetails/?id=3680510302
-(unavailable 3712465624),3712465624,,0,1,0,Unavailable,https://steamcommunity.com/sharedfiles/filedetails/?id=3712465624
+(unavailable 2164584341),2164584341,murmur.bodypartsrot,1,0,0,"Medical, needs & hygiene",https://steamcommunity.com/sharedfiles/filedetails/?id=2164584341
+(unavailable 2768240773),2768240773,mosi.stubblyfacialhair,0,0,1,"Hair, bodies & animations",https://steamcommunity.com/sharedfiles/filedetails/?id=2768240773
+(unavailable 2792624577),2792624577,mosi.vfec.doubletents,0,1,0,"Furniture, decor & props",https://steamcommunity.com/sharedfiles/filedetails/?id=2792624577
+(unavailable 2920418046),2920418046,azami.alphaanimalsretexture,0,1,0,Textures & retextures,https://steamcommunity.com/sharedfiles/filedetails/?id=2920418046
+(unavailable 3015087560),3015087560,kupie.vfeallvehiclesrenamable,1,0,0,"Vehicles, gravships & mechs",https://steamcommunity.com/sharedfiles/filedetails/?id=3015087560
+(unavailable 3226502149),3226502149,calltradeships.cavenaugh.rw,1,0,0,"World, biomes, factions & travel",https://steamcommunity.com/sharedfiles/filedetails/?id=3226502149
+(unavailable 3309016770),3309016770,guppyfacesarecute.bettervomit,1,0,0,"Medical, needs & hygiene",https://steamcommunity.com/sharedfiles/filedetails/?id=3309016770
+(unavailable 3626568203),3626568203,jintuzilamian.hairstyle.afuwomenshairstyles,0,0,1,"Hair, bodies & animations",https://steamcommunity.com/sharedfiles/filedetails/?id=3626568203
+(unavailable 3626568306),3626568306,jintuzilamian.hairstyle.afumenshairstyles,0,0,1,"Hair, bodies & animations",https://steamcommunity.com/sharedfiles/filedetails/?id=3626568306
+(unavailable 3628433732),3628433732,xubisca.mightylivertweak,0,1,0,"Genes, xenotypes & races",https://steamcommunity.com/sharedfiles/filedetails/?id=3628433732
+(unavailable 3680510302),3680510302,,1,0,0,"Medical, needs & hygiene",https://steamcommunity.com/sharedfiles/filedetails/?id=3680510302
+(unavailable 3712465624),3712465624,,0,1,0,Gameplay tweaks,https://steamcommunity.com/sharedfiles/filedetails/?id=3712465624
+(unavailable 3775906812),3775906812,guppyfacesarecute.skunks,0,1,0,Animals,https://steamcommunity.com/sharedfiles/filedetails/?id=3775906812
+(unavailable 3778487830),3778487830,guppyfacesarecute.starfix,1,0,0,Gameplay tweaks,https://steamcommunity.com/sharedfiles/filedetails/?id=3778487830
 1trickPwnyta's Anomaly Patch,3242000764,anomalypatch.1trickpwnyta,1,0,0,Patches & compatibility,https://steamcommunity.com/sharedfiles/filedetails/?id=3242000764
 1trickPwnyta's Odyssey Patch,3578444636,odysseypatch.1trickpwnyta,1,0,0,Patches & compatibility,https://steamcommunity.com/sharedfiles/filedetails/?id=3578444636
 [1.5-1.6] Custom Xenotype Exporter Tool,3254345251,gege.customxenotypeexportertoolreupload,1,0,0,Performance & tools,https://steamcommunity.com/sharedfiles/filedetails/?id=3254345251
@@ -218,7 +221,7 @@ Better Traders Guild,3684587591,shunter.bettertradersguild,1,0,0,"World, biomes,
 Better Transhumanists,2269379503,co.uk.epicguru.bettertranshumanists,1,0,0,Gameplay tweaks,https://steamcommunity.com/sharedfiles/filedetails/?id=2269379503
 Better Trees,3539609975,chaoticenrico.bettertrees,0,0,1,Textures & retextures,https://steamcommunity.com/sharedfiles/filedetails/?id=3539609975
 Better Trees: More Djeeshka Like Textures,3543705507,maal.bettertreesmod,0,0,1,Textures & retextures,https://steamcommunity.com/sharedfiles/filedetails/?id=3543705507
-Better Vomit,3309016770,guppyfacesarecute.bettervomit,1,0,0,"Medical, needs & hygiene",https://steamcommunity.com/sharedfiles/filedetails/?id=3309016770
+Better Vomit - Continued,3798550391,,1,0,0,"Medical, needs & hygiene",https://steamcommunity.com/sharedfiles/filedetails/?id=3798550391
 Better Workbench Management,935982361,falconne.bwm,1,0,0,"Building, production & storage",https://steamcommunity.com/sharedfiles/filedetails/?id=935982361
 BetterInfoCard,2890920739,creeper.betterinfocard,1,0,0,UI & information,https://steamcommunity.com/sharedfiles/filedetails/?id=2890920739
 BetterInspectCard,3538143191,tk421storm.betterinspectcard,1,0,0,UI & information,https://steamcommunity.com/sharedfiles/filedetails/?id=3538143191
@@ -1110,7 +1113,7 @@ Skilled Slaughtering,2873284405,mrhydralisk.skilledslaughtering,1,0,0,Gameplay t
 Skipdoor Menu,3678214467,gabrieel1482.skipdoorMenu,1,0,0,UI & information,https://steamcommunity.com/sharedfiles/filedetails/?id=3678214467
 Skipdoor Pathing (Unlimited),3605522450,dcszar.skipdoorpathing,1,0,0,"Building, production & storage",https://steamcommunity.com/sharedfiles/filedetails/?id=3605522450
 Skull Throne,3386810576,speedentron.skullthrone,0,1,0,"Furniture, decor & props",https://steamcommunity.com/sharedfiles/filedetails/?id=3386810576
-Skunks,3775906812,guppyfacesarecute.skunks,0,1,0,Animals,https://steamcommunity.com/sharedfiles/filedetails/?id=3775906812
+Skunks - Continued,3798549519,,0,1,0,Animals,https://steamcommunity.com/sharedfiles/filedetails/?id=3798549519
 Slaughtering Meme,3151598704,slaughteringmeme.rince,0,1,0,Ideology & social,https://steamcommunity.com/sharedfiles/filedetails/?id=3151598704
 Slave Rebellions Improved (Continued),3259932217,mlie.slaverebellionsimproved,1,0,0,Ideology & social,https://steamcommunity.com/sharedfiles/filedetails/?id=3259932217
 Sleek Research Tab,3752835712,squishyjellyfish.SleekResearchTab,1,0,0,UI & information,https://steamcommunity.com/sharedfiles/filedetails/?id=3752835712
@@ -1135,7 +1138,7 @@ Spectacular Skullspike,2963460063,btwthisislegit.oneofmy.worstmods,1,0,0,Gamepla
 SpineLib,3778463813,CoolNether123.Spine,1,0,0,Frameworks & libraries,https://steamcommunity.com/sharedfiles/filedetails/?id=3778463813
 SquadKit,3757704214,brrainz.squadkit,1,0,0,"Combat, weapons & raids",https://steamcommunity.com/sharedfiles/filedetails/?id=3757704214
 Standing Cryptopods,2765538832,FluffyTowels.StandingCryptosleepCasket,0,1,0,Gameplay tweaks,https://steamcommunity.com/sharedfiles/filedetails/?id=2765538832
-StarFix,3778487830,guppyfacesarecute.starfix,1,0,0,Gameplay tweaks,https://steamcommunity.com/sharedfiles/filedetails/?id=3778487830
+StarFix - Continued,3798550797,,1,0,0,Gameplay tweaks,https://steamcommunity.com/sharedfiles/filedetails/?id=3798550797
 Stationhouse Supplies,3432907335,shp.rus,0,0,1,"Apparel, styles & cosmetics",https://steamcommunity.com/sharedfiles/filedetails/?id=3432907335
 Statue of Animal (Continued),3407427159,zal.statueofanimal,0,1,0,"Furniture, decor & props",https://steamcommunity.com/sharedfiles/filedetails/?id=3407427159
 Steve's Doors,3141057381,scurvyez.stevesdoors,0,1,0,"Building, production & storage",https://steamcommunity.com/sharedfiles/filedetails/?id=3141057381
