@@ -50,4 +50,4 @@ Repo **Settings → Pages → Build and deployment**
 
 ## Snapshot notes
 
-- packageIds filled 9 September 2026 Europe/London (1469 of 1471; About.xml via DepotDownloader + RimSort). Removed 3 collection pages that were listed as mods. 2 workshop items remain unavailable.
+- packageIds filled 2026-09-09 Europe/London
