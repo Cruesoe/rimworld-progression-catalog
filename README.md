@@ -48,4 +48,4 @@ Repo **Settings → Pages → Build and deployment**
 
 ## Snapshot notes
 
-- packageIds filled 9 September 2026: **1469 of 1471**. Remaining 2 are unavailable on Steam (3680510302, 3712465624).
+- packageIds filled 2026-09-09
