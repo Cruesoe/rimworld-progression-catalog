@@ -8,7 +8,7 @@ Searchable, filterable list of workshop items from:
 
 **Steam snapshot date: 8 September 2026 (Europe/London)**
 
-**packageId coverage: 1081 of 1474**
+**packageId coverage: 1469 of 1471**
 
 **Unique mods: 1474** — Core 860 · Content 425 · Cosmetics 192
 
@@ -50,4 +50,4 @@ Repo **Settings → Pages → Build and deployment**
 
 ## Snapshot notes
 
-- packageIds filled 2026-09-08 Europe/London
+- packageIds filled 9 September 2026 Europe/London (1469 of 1471; About.xml via DepotDownloader + RimSort). Removed 3 collection pages that were listed as mods. 2 workshop items remain unavailable.
