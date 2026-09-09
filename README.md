@@ -10,9 +10,7 @@ Searchable, filterable list of workshop items from:
 
 **packageId coverage: 1469 of 1471**
 
-**Unique mods: 1474** — Core 860 · Content 425 · Cosmetics 192
-
-**packageId from RimSort steamDB: 1015 of 1474**
+**Unique mods: 1471** — Core 860 · Content 425 · Cosmetics 192 (3 collection pages were removed from the item list)
 
 This is an unofficial helper, not an official Progression site. Categories are inferred from titles and which collection an item sits in.
 
@@ -50,4 +48,4 @@ Repo **Settings → Pages → Build and deployment**
 
 ## Snapshot notes
 
-- packageIds filled 2026-09-09 Europe/London
+- packageIds filled 9 September 2026 Europe/London: **1469 of 1471**. Remaining 2 are unavailable on Steam (3680510302, 3712465624).
