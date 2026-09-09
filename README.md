@@ -6,7 +6,7 @@ Searchable, filterable list of workshop items from:
 - [The Progression Content (2/3)](https://steamcommunity.com/workshop/filedetails/?id=3521319712)
 - [The Progression Cosmetics (3/3)](https://steamcommunity.com/sharedfiles/filedetails/?id=3637541646)
 
-**Steam snapshot date: 8 September 2026 (Europe/London)**
+**Steam snapshot date: 9 September 2026**
 
 **packageId coverage: 1469 of 1471**
 
@@ -48,4 +48,4 @@ Repo **Settings → Pages → Build and deployment**
 
 ## Snapshot notes
 
-- packageIds filled 9 September 2026 Europe/London: **1469 of 1471**. Remaining 2 are unavailable on Steam (3680510302, 3712465624).
+- packageIds filled 9 September 2026: **1469 of 1471**. Remaining 2 are unavailable on Steam (3680510302, 3712465624).
