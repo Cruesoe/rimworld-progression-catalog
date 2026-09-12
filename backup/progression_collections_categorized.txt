@@ -1,5 +1,5 @@
 The Progression — categorized catalog
-Steam snapshot: 9 September 2026 (Europe/London)
+Steam snapshot: 13 September 2026 (Europe/London)
 Categories revised: 8 September 2026
 
 ========================================================================
@@ -63,7 +63,7 @@ Frameworks & libraries  (28)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3595247479
 
 ========================================================================
-Performance & tools  (27)
+Performance & tools  (28)
 ========================================================================
   - [DR] Save Without Restart
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3599419929
@@ -119,9 +119,11 @@ Performance & tools  (27)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=1504723424
   - [1.5-1.6] Custom Xenotype Exporter Tool
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3254345251
+  - Faster Game Loading - Continued
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3652938473
 
 ========================================================================
-UI & information  (115)
+UI & information  (116)
 ========================================================================
   - [UI-Overhaul] PrettyUI
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3661802609
@@ -251,8 +253,6 @@ UI & information  (115)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3528086894
   - Premade Xenotype Floatmenu to Dialog
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3350991041
-  - Psycaster Colonists Tab
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3699245205
   - Quality Overlay
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2568283376
   - Quick Accuracy Overlay
@@ -353,6 +353,10 @@ UI & information  (115)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3487185451
   - Trader Show Xenotype
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3007612546
+  - [DR] Build Outline（占地描边）
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3796610291
+  - Photo Mode
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3799924005
 
 ========================================================================
 Quality of life  (52)
@@ -821,8 +825,6 @@ Apparel, styles & cosmetics  (85)
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2993301551
   - Extra Explosion Effects
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3066208882
-  - FemaleApparelVariants
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3511966169
   - FirmamentFX
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3781872865
   - Gerrymon's Cannibal Style
@@ -933,6 +935,8 @@ Apparel, styles & cosmetics  (85)
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3293128701
   - Police Uniforms
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3474720857
+  - Female Apparel Variants Continued
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3799726535
 
 ========================================================================
 Furniture, decor & props  (49)
@@ -1119,7 +1123,7 @@ Patches & compatibility  (25)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3634124647
 
 ========================================================================
-Vanilla Expanded  (141)
+Vanilla Expanded  (143)
 ========================================================================
   - Vanilla Factions Expanded - Classical - No Auto Research
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3757952859
@@ -1403,6 +1407,10 @@ Vanilla Expanded  (141)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3785184597
   - VRE: Android Auto Swap Reactor
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3363722315
+  - Psycasts²
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3761869362
+  - Vanilla Gravship Expanded - Chapter 2
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3799737423
 
 ========================================================================
 Alpha series  (15)
@@ -1555,7 +1563,7 @@ Content & overhauls  (56)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3032870787
 
 ========================================================================
-Animals  (48)
+Animals  (47)
 ========================================================================
   - Foxes Aren't Suicidal(continued)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2094250578
@@ -1627,8 +1635,6 @@ Animals  (48)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3221646589
   - Hamster Wheel Generator (Continued)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3167447860
-  - Anomaly Fleshbeasts or Sarg Fleshbeasts?
-    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3234422589
   - Barn Stall (Continued)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2071768301
   - Dumbs' Dachshunds (Continued)
@@ -1651,7 +1657,7 @@ Animals  (48)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2846919540
   - (unavailable 3775906812)  [unavailable]
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3775906812
-  - Skunks - Continued
+  - (unavailable 3798549519)  [unavailable]
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3798549519
 
 ========================================================================
@@ -1961,7 +1967,7 @@ Medical, needs & hygiene  (35)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2164584341
   - (unavailable 3680510302)  [unavailable]
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3680510302
-  - Better Vomit - Continued
+  - (unavailable 3798550391)  [unavailable]
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3798550391
 
 ========================================================================
@@ -2233,7 +2239,7 @@ World, biomes, factions & travel  (57)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3626213617
   - Alien Worlds - Dreamworld
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3627997934
-  - Alien Worlds - Gas Giant
+  - Gas Giant
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3786620127
   - Alien Worlds - Gloomworld
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3704140230
@@ -2321,7 +2327,7 @@ World, biomes, factions & travel  (57)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3226502149
 
 ========================================================================
-Research, storytellers & progression  (39)
+Research, storytellers & progression  (40)
 ========================================================================
   - Alfred Ancient - Progression Storytellers
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3579763743
@@ -2377,8 +2383,6 @@ Research, storytellers & progression  (39)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3753615736
   - Progression: Verticality
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3416136317
-  - Progression: Warfare
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3422293321
   - Progression: Warrants
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3270214529
   - Progression: Worlds
@@ -2401,6 +2405,10 @@ Research, storytellers & progression  (39)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3448319470
   - Yaoma Storytellers - Jianghu Jin
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3403972335
+  - Progression: Arsenal
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3798837810
+  - Progression: Ammunition
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3798845290
 
 ========================================================================
 Vehicles, gravships & mechs  (31)
@@ -2431,8 +2439,6 @@ Vehicles, gravships & mechs  (31)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3529144158
   - Gravship Captain Set
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3528780638
-  - Gravship Cutscene Speed
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3787398983
   - Snow Crawler (Continued)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3558174046
   - Technical map Vehicles
@@ -2467,6 +2473,8 @@ Vehicles, gravships & mechs  (31)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3246748490
   - (unavailable 3015087560)  [unavailable]
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3015087560
+  - Gravship Fleet
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3787239201
 
 ========================================================================
 Gameplay tweaks  (285)
@@ -2573,7 +2581,7 @@ Gameplay tweaks  (285)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2008011990
   - Ferny's Mod Configs
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3256902751
-  - Fluffy Breakdowns 1.6 (fork with VGrE support)
+  - Fluffy Breakdowns Continued
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3654021202
   - Foot Traffic Heatmap
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3240217316
@@ -3039,6 +3047,6 @@ Gameplay tweaks  (285)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3751234791
   - (unavailable 3712465624)  [unavailable]
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3712465624
-  - StarFix - Continued
+  - (unavailable 3798550797)  [unavailable]
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3798550797
 
