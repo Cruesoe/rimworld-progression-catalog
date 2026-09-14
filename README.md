@@ -6,6 +6,8 @@ Searchable, filterable list of workshop items from:
 - [The Progression Content (2/3)](https://steamcommunity.com/workshop/filedetails/?id=3521319712)
 - [The Progression Cosmetics (3/3)](https://steamcommunity.com/sharedfiles/filedetails/?id=3637541646)
 
+[Site patch notes](CHANGELOG.md)
+
 **Steam snapshot date: 13 September 2026 (Europe/London)**
 
 **packageId from RimSort steamDB: 1012 of 1478**
