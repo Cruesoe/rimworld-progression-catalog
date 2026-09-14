@@ -2,6 +2,7 @@
 
 ## 14 September 2026
 
+- Removed timezone/location labels from date-only snapshot timestamps.
 - Renamed the site to **The Progression Catalog** and added a favicon, canonical URL, theme colour, search description, and social-link metadata.
 - Made every mod title a direct Steam Workshop link while retaining both **Copy workshop ID** and **Copy packageId** actions.
 - Added linked collection totals for Core, Content, and Cosmetics.

@@ -8,7 +8,7 @@ Searchable, filterable list of workshop items from:
 
 [Site patch notes](CHANGELOG.md)
 
-**Steam snapshot date: 13 September 2026 (Europe/London)**
+**Steam snapshot date: 13 September 2026**
 
 **packageId from RimSort steamDB: 1012 of 1478**
 
@@ -77,7 +77,7 @@ Repo **Settings → Pages → Build and deployment**
 
 ## Snapshot notes
 
-- Steam Web API snapshot 2026-09-13 (Europe/London)
+- Steam Web API snapshot 2026-09-13
 - packageId from RimSort steamDB.json; existing overlay/catalog packageIds kept when RimSort has no row
 - New workshop IDs without a RimSort row are left blank (packageId unknown)
 - Did not download workshop mods via SteamCMD

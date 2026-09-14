@@ -146,7 +146,7 @@ def change_summary(changes: dict) -> str:
 
 
 def update_html(html: str, data: dict, changes: dict, iso_date: str, display_date: str) -> str:
-    html = re.sub(r'<div class="updated">.*?</div>', f'<div class="updated">Steam snapshot: <time datetime="{iso_date}">{display_date} (GMT)</time></div>', html, count=1, flags=re.S)
+    html = re.sub(r'<div class="updated">.*?</div>', f'<div class="updated">Steam snapshot: <time datetime="{iso_date}">{display_date}</time></div>', html, count=1, flags=re.S)
     html = re.sub(r'(<details class="changes">\s*<summary>).*?(</summary>)', r'\g<1>Latest snapshot changes: ' + change_summary(changes) + r'\g<2>', html, count=1, flags=re.S)
     html = re.sub(r"const DATA = \{.*?\};\s*\n", "const DATA = " + json.dumps(data, ensure_ascii=False, separators=(",", ":")) + ";\n", html, count=1, flags=re.S)
     total = len(data["items"])
@@ -154,7 +154,7 @@ def update_html(html: str, data: dict, changes: dict, iso_date: str, display_dat
     footer_match = re.search(r"<footer>.*?</footer>", html, re.S)
     if footer_match:
         footer = footer_match.group(0)
-        footer = re.sub(r"Steam snapshot: .*?\.", f"Steam snapshot: {display_date} (GMT).", footer)
+        footer = re.sub(r"Steam snapshot: .*?\.", f"Steam snapshot: {display_date}.", footer)
         footer = re.sub(r"(packageId from RimSort steamDB: \d+ of )\d+\.", rf"\g<1>{total}.", footer)
         footer = re.sub(r"Known packageIds \(RimSort \+ previous overlay\): \d+ of \d+\.", f"Known packageIds (RimSort + previous overlay): {known} of {total}.", footer)
         html = html[:footer_match.start()] + footer + html[footer_match.end():]
@@ -185,7 +185,7 @@ def update_readme(text: str, data: dict, changes: dict, display_date: str) -> st
                 counts[key] += 1
     total = len(data["items"])
     known = sum(bool(item.get("p")) for item in data["items"])
-    text = re.sub(r"\*\*Steam snapshot date:.*?\*\*", f"**Steam snapshot date: {display_date} (GMT)**", text, count=1)
+    text = re.sub(r"\*\*Steam snapshot date:.*?\*\*", f"**Steam snapshot date: {display_date}**", text, count=1)
     text = re.sub(r"(\*\*packageId from RimSort steamDB: \d+ of )\d+(\*\*)", rf"\g<1>{total}\g<2>", text, count=1)
     text = re.sub(r"\*\*Known packageIds .*?\*\*", f"**Known packageIds (RimSort + previous overlay): {known} of {total}**", text, count=1)
     text = re.sub(r"\*\*Unique mods:.*?\*\*[^\n]*", f"**Unique mods: {total}** — Core {counts['core']} · Content {counts['content']} · Cosmetics {counts['cosmetics']} (3 collection pages omitted from the item list)", text, count=1)
@@ -199,7 +199,7 @@ def write_backups(data: dict, display_date: str) -> None:
         writer.writerow(["title", "workshop_id", "packageId", "collection_core", "collection_content", "collection_cosmetics", "category", "steam_url"])
         for item in sorted(data["items"], key=lambda value: (value["t"].casefold(), value["id"])):
             writer.writerow([item["t"], item["id"], item.get("p", ""), int(item["core"]), int(item["content"]), int(item["cosmetics"]), item["c"], item["u"]])
-    lines = ["The Progression — categorized catalog", f"Steam snapshot: {display_date} (GMT)", ""]
+    lines = ["The Progression — categorized catalog", f"Steam snapshot: {display_date}", ""]
     for category in data["cats"]:
         items = [item for item in data["items"] if item["c"] == category]
         if not items:
@@ -227,7 +227,7 @@ def write_backups(data: dict, display_date: str) -> None:
     summary = workbook.active
     summary.title = "Summary"
     summary["A1"] = "The Progression collections — categorized workshop list"
-    summary["A3"] = f"Steam snapshot: {display_date} (GMT)"
+    summary["A3"] = f"Steam snapshot: {display_date}"
     mods = workbook.create_sheet("All mods")
     mods.append(["Category", "Mod title", "Collections", "Core 1/3", "Content 2/3", "Cosmetics 3/3", "Workshop ID", "Steam URL", "packageId", "Unavailable"])
     head = Font(name="Arial", bold=True, size=11, color="E8F5EF")
