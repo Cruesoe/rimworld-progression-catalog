@@ -8,50 +8,32 @@ Searchable, filterable list of workshop items from:
 
 [Site patch notes](CHANGELOG.md)
 
-**Steam snapshot date: 13 September 2026**
+**Steam snapshot date: 20 September 2026**
 
-**packageId from RimSort steamDB: 1012 of 1478**
+**packageId from RimSort steamDB: 1012 of 1479**
 
-**Known packageIds (RimSort + previous overlay): 1464 of 1478**
+**Known packageIds (RimSort + previous overlay): 1462 of 1479**
 
-**Unique mods: 1478** — Core 864 · Content 423 · Cosmetics 191 (3 collection pages omitted from the item list)
+**Unique mods: 1479** — Core 863 · Content 424 · Cosmetics 192 (3 collection pages omitted from the item list)
 
 This is an unofficial helper, not an official Progression site. Categories are inferred from titles and which collection an item sits in.
 
 ## This snapshot vs previous catalog
 
-Added (9):
+### Added (3)
+- Beam Constructor — 3801431089
+- Oops all BUGPARTS 2 — 2896673577
+- Signs and Comments Fixed Fixed — 3801844648
 
-- Faster Game Loading - Continued — 3652938473 (1/3 Core)
-- Psycasts² — 3761869362 (1/3 Core)
-- Gravship Fleet — 3787239201 (1/3 Core)
-- [DR] Build Outline（占地描边） — 3796610291 (1/3 Core)
-- Progression: Arsenal — 3798837810 (1/3 Core)
-- Progression: Ammunition — 3798845290 (1/3 Core)
-- Female Apparel Variants Continued — 3799726535 (1/3 Core)
-- Vanilla Gravship Expanded - Chapter 2 — 3799737423 (1/3 Core)
-- Photo Mode — 3799924005 (3/3 Cosmetics)
+### Removed (2)
+- Signs and Comments Fixed — 3656641385
+- Basic Dropdowns Replace Stuff Patch — 3785075223
 
-Removed (5):
+### Renamed (0)
+- None
 
-- Anomaly Fleshbeasts or Sarg Fleshbeasts? — 3234422589 (2/3 Content)
-- Progression: Warfare — 3422293321 (1/3 Core)
-- FemaleApparelVariants — 3511966169 (1/3 Core)
-- Psycaster Colonists Tab — 3699245205 (1/3 Core)
-- Gravship Cutscene Speed — 3787398983 (1/3 Core)
-
-Renamed (still available) (2):
-
-- Fluffy Breakdowns 1.6 (fork with VGrE support) → Fluffy Breakdowns Continued — 3654021202
-- Alien Worlds - Gas Giant → Gas Giant — 3786620127
-
-Now listed as unavailable (3):
-
-- Skunks - Continued → (unavailable 3798549519)
-- Better Vomit - Continued → (unavailable 3798550391)
-- StarFix - Continued → (unavailable 3798550797)
-
-Total unavailable workshop IDs in this snapshot: 17.
+### Newly unavailable (0)
+- None
 
 ## Open the catalog
 
