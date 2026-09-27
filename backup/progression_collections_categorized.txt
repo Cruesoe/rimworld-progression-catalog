@@ -1,5 +1,5 @@
 The Progression — categorized catalog
-Steam snapshot: 20 September 2026
+Steam snapshot: 27 September 2026
 
 ========================================================================
 Frameworks & libraries  (28)
@@ -764,7 +764,7 @@ Hair, bodies & animations  (74)
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2877292196
 
 ========================================================================
-Apparel, styles & cosmetics  (85)
+Apparel, styles & cosmetics  (84)
 ========================================================================
   - [LYN] HD Corporate and Hedonist Apparel
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3333314985
@@ -842,10 +842,6 @@ Apparel, styles & cosmetics  (85)
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3748934221
   - Medieval Visible Pants Addon
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3707481634
-  - Melee Animation
-    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2944488802
-  - Melee Animation Vanilla
-    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3541917234
   - More Mini-Horns
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3151668881
   - Morphs Assorted: Tattoos
@@ -894,6 +890,8 @@ Apparel, styles & cosmetics  (85)
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2890180936
   - RowMart Stylepack
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3503142907
+  - Rustic Workbenches as Ideology Style
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3804725455
   - Say That Again
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2776179693
   - Sexier Visage Masks
@@ -1066,7 +1064,7 @@ Audio & music  (12)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3630774109
 
 ========================================================================
-Patches & compatibility  (25)
+Patches & compatibility  (26)
 ========================================================================
   - 1trickPwnyta's Anomaly Patch
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3242000764
@@ -1114,6 +1112,8 @@ Patches & compatibility  (25)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3736074335
   - Temporary Patches
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3424105991
+  - Vanilla Trading Expanded - Item Picker Fix
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3803663970
   - Visual XML Patches
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3570531169
   - VOE - Progression Mining Patch
@@ -2474,7 +2474,7 @@ Vehicles, gravships & mechs  (31)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3438366909
 
 ========================================================================
-Gameplay tweaks  (287)
+Gameplay tweaks  (291)
 ========================================================================
   - (unavailable 3712465624)  [unavailable]
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3712465624
@@ -2508,6 +2508,8 @@ Gameplay tweaks  (287)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3534920369
   - Ambiguous Anomaly
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3266425876
+  - Ammo Readout
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3788225671
   - Aonyx Cinerea 亚洲小爪水獭
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3539632325
   - Artisan Experience
@@ -2654,6 +2656,8 @@ Gameplay tweaks  (287)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2922179297
   - Fists Aren't Made of Steel
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2845980214
+  - Flourish
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3793154978
   - Fluffy Breakdowns Continued
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3654021202
   - Foot Traffic Heatmap
@@ -2680,8 +2684,6 @@ Gameplay tweaks  (287)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3525070588
   - GroundClear
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2013560306
-  - Guarding Pawns
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3114183220
   - Guarding Pawns - Subtle Spots
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3422991870
   - Gunlink sucks less
@@ -2770,6 +2772,8 @@ Gameplay tweaks  (287)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=1554307259
   - Mood Matters
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2581603685
+  - More Birds - Birds Beyond
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3807606852
   - More Hunter Drones
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3532453334
   - More Orders
@@ -2914,6 +2918,8 @@ Gameplay tweaks  (287)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2022480344
   - Safely Hidden Away (Continued)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3546378186
+  - Sarcho Turtle
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3805144466
   - Save Thing As Image
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2930015327
   - Scanning Thoughts
@@ -3044,6 +3050,8 @@ Gameplay tweaks  (287)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3727287885
   - Writhing Tree
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3678181731
+  - WTL Odyssey Quest Filter
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3807578618
   - WVC - Work Modes
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2888380373
   - You Drive, I Sleep

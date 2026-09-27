@@ -8,26 +8,31 @@ Searchable, filterable list of workshop items from:
 
 [Site patch notes](CHANGELOG.md)
 
-**Steam snapshot date: 20 September 2026**
+**Steam snapshot date: 27 September 2026**
 
-**packageId from RimSort steamDB: 1012 of 1479**
+**packageId from RimSort steamDB: 1012 of 1483**
 
-**Known packageIds (RimSort + previous overlay): 1462 of 1479**
+**Known packageIds (RimSort + previous overlay): 1459 of 1483**
 
-**Unique mods: 1479** — Core 863 · Content 424 · Cosmetics 192 (3 collection pages omitted from the item list)
+**Unique mods: 1483** — Core 865 · Content 426 · Cosmetics 192 (3 collection pages omitted from the item list)
 
 This is an unofficial helper, not an official Progression site. Categories are inferred from titles and which collection an item sits in.
 
 ## This snapshot vs previous catalog
 
-### Added (3)
-- Beam Constructor — 3801431089
-- Oops all BUGPARTS 2 — 2896673577
-- Signs and Comments Fixed Fixed — 3801844648
+### Added (7)
+- WTL Odyssey Quest Filter — 3807578618
+- Flourish — 3793154978
+- More Birds - Birds Beyond — 3807606852
+- Ammo Readout — 3788225671
+- Vanilla Trading Expanded - Item Picker Fix — 3803663970
+- Rustic Workbenches as Ideology Style — 3804725455
+- Sarcho Turtle — 3805144466
 
-### Removed (2)
-- Signs and Comments Fixed — 3656641385
-- Basic Dropdowns Replace Stuff Patch — 3785075223
+### Removed (3)
+- Melee Animation — 2944488802
+- Melee Animation Vanilla — 3541917234
+- Guarding Pawns — 3114183220
 
 ### Renamed (0)
 - None
