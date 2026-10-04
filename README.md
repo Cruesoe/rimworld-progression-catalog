@@ -8,34 +8,32 @@ Searchable, filterable list of workshop items from:
 
 [Site patch notes](CHANGELOG.md)
 
-**Steam snapshot date: 27 September 2026**
+**Steam snapshot date: 4 October 2026**
 
-**packageId from RimSort steamDB: 1012 of 1483**
+**packageId from RimSort steamDB: 1012 of 1489**
 
-**Known packageIds (RimSort + previous overlay): 1459 of 1483**
+**Known packageIds (RimSort + previous overlay): 1458 of 1489**
 
-**Unique mods: 1483** — Core 865 · Content 426 · Cosmetics 192 (3 collection pages omitted from the item list)
+**Unique mods: 1489** — Core 867 · Content 429 · Cosmetics 193 (3 collection pages omitted from the item list)
 
 This is an unofficial helper, not an official Progression site. Categories are inferred from titles and which collection an item sits in.
 
 ## This snapshot vs previous catalog
 
 ### Added (7)
-- WTL Odyssey Quest Filter — 3807578618
-- Flourish — 3793154978
-- More Birds - Birds Beyond — 3807606852
-- Ammo Readout — 3788225671
-- Vanilla Trading Expanded - Item Picker Fix — 3803663970
-- Rustic Workbenches as Ideology Style — 3804725455
-- Sarcho Turtle — 3805144466
+- Inject Genes Retextured (1.6 Reupload) — 3809376831
+- Butchery Work Scales With Body Size — 3809027243
+- Salvage Gravlock — 3799758627
+- Rimblings — 3806903620
+- Big and Small Furniture - More Medieval Overhaul Beds — 3808891681
+- What Did I Just Add — 3810687197
+- Toxlamps — 3166048152
 
-### Removed (3)
-- Melee Animation — 2944488802
-- Melee Animation Vanilla — 3541917234
-- Guarding Pawns — 3114183220
+### Removed (1)
+- Guarding Pawns - Subtle Spots — 3422991870
 
-### Renamed (0)
-- None
+### Renamed (1)
+- Flourish → Flourish - Combat Animations — 3793154978
 
 ### Newly unavailable (0)
 - None
