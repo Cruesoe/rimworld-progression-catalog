@@ -1,8 +1,8 @@
 The Progression — categorized catalog
-Steam snapshot: 4 October 2026
+Steam snapshot: 11 October 2026
 
 ========================================================================
-Frameworks & libraries  (28)
+Frameworks & libraries  (29)
 ========================================================================
   - [SYR] Processor Framework (Continued)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3210544395
@@ -20,6 +20,8 @@ Frameworks & libraries  (28)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3015333853
   - ChezhouLib
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3595247479
+  - Custom Base Framework
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3813689040
   - EBSG Framework
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3112549163
   - FSharp.Core
@@ -62,7 +64,7 @@ Frameworks & libraries  (28)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206
 
 ========================================================================
-Performance & tools  (28)
+Performance & tools  (29)
 ========================================================================
   - [1.5-1.6] Custom Xenotype Exporter Tool
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3254345251
@@ -116,6 +118,8 @@ Performance & tools  (28)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3470245875
   - Turret Performance Tweaks
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3621644930
+  - VPE Shrunk Psycast Tooltip Fix
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3795310579
   - Worldbuilder
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3522102833
   - 更好的开发者模式/BetterDevMode
@@ -1124,7 +1128,7 @@ Patches & compatibility  (26)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3634124647
 
 ========================================================================
-Vanilla Expanded  (143)
+Vanilla Expanded  (142)
 ========================================================================
   - [1001] Unofficial Vanilla Outposts Expanded Expanded: Trading (Continued)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2889112010
@@ -1158,8 +1162,6 @@ Vanilla Expanded  (143)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2775017012
   - Vanilla Backstories Expanded
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2861806869
-  - Vanilla Base Generation Expanded
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3209927822
   - Vanilla Brewing Expanded
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2186560858
   - Vanilla Brewing Expanded - Coffees and Teas
@@ -1618,7 +1620,7 @@ Animals  (47)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3167447860
   - Helpful Monkeys
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=1523796550
-  - Helpful Raccoons | Fork by [ETF]
+  - Helpful Raccoons [Forked]
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3457315303
   - Hunt for Me
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=1593245720
@@ -2480,7 +2482,7 @@ Vehicles, gravships & mechs  (31)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3438366909
 
 ========================================================================
-Gameplay tweaks  (294)
+Gameplay tweaks  (297)
 ========================================================================
   - (unavailable 3712465624)  [unavailable]
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3712465624
@@ -2624,6 +2626,8 @@ Gameplay tweaks  (294)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3637525997
   - Don't Swim in Marsh
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3648932221
+  - Door Direction (One-Way Doors, Mod Doors Supported)
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3814657467
   - Draw From Center
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3553713342
   - Draw It
@@ -2738,6 +2742,8 @@ Gameplay tweaks  (294)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2117570018
   - Invisible Display Case Continued
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3546566196
+  - Jettison Corpses
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3816431081
   - Justice For Flagstone
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3237084161
   - Keep Burning, Corpse!
@@ -2946,6 +2952,8 @@ Gameplay tweaks  (294)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3328702448
   - Share Settings
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3558813478
+  - Shipcracker Warcasket
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3814428597
   - Shoo! (Continued)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3550216763
   - Simple Additions: Starfire Boss

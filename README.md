@@ -8,32 +8,30 @@ Searchable, filterable list of workshop items from:
 
 [Site patch notes](CHANGELOG.md)
 
-**Steam snapshot date: 4 October 2026**
+**Steam snapshot date: 11 October 2026**
 
-**packageId from RimSort steamDB: 1012 of 1489**
+**packageId from RimSort steamDB: 1012 of 1493**
 
-**Known packageIds (RimSort + previous overlay): 1458 of 1489**
+**Known packageIds (RimSort + previous overlay): 1457 of 1493**
 
-**Unique mods: 1489** — Core 867 · Content 429 · Cosmetics 193 (3 collection pages omitted from the item list)
+**Unique mods: 1493** — Core 870 · Content 430 · Cosmetics 193 (3 collection pages omitted from the item list)
 
 This is an unofficial helper, not an official Progression site. Categories are inferred from titles and which collection an item sits in.
 
 ## This snapshot vs previous catalog
 
-### Added (7)
-- Inject Genes Retextured (1.6 Reupload) — 3809376831
-- Butchery Work Scales With Body Size — 3809027243
-- Salvage Gravlock — 3799758627
-- Rimblings — 3806903620
-- Big and Small Furniture - More Medieval Overhaul Beds — 3808891681
-- What Did I Just Add — 3810687197
-- Toxlamps — 3166048152
+### Added (5)
+- Door Direction (One-Way Doors, Mod Doors Supported) — 3814657467
+- Jettison Corpses — 3816431081
+- VPE Shrunk Psycast Tooltip Fix — 3795310579
+- Custom Base Framework — 3813689040
+- Shipcracker Warcasket — 3814428597
 
 ### Removed (1)
-- Guarding Pawns - Subtle Spots — 3422991870
+- Vanilla Base Generation Expanded — 3209927822
 
 ### Renamed (1)
-- Flourish → Flourish - Combat Animations — 3793154978
+- Helpful Raccoons | Fork by [ETF] → Helpful Raccoons [Forked] — 3457315303
 
 ### Newly unavailable (0)
 - None
