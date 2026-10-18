@@ -1,10 +1,10 @@
 The Progression — categorized catalog
-Steam snapshot: 11 October 2026
+Steam snapshot: 18 October 2026
 
 ========================================================================
-Frameworks & libraries  (29)
+Frameworks & libraries  (28)
 ========================================================================
-  - [SYR] Processor Framework (Continued)
+  - [SYR] Processor Framework (Deprecated)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3210544395
   - Adaptive Storage Framework
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3033901359
@@ -18,8 +18,6 @@ Frameworks & libraries  (29)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3709492514
   - Bunny Framework
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3015333853
-  - ChezhouLib
-    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3595247479
   - Custom Base Framework
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3813689040
   - EBSG Framework
@@ -38,7 +36,7 @@ Frameworks & libraries  (29)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3794747458
   - Log Publisher from HugsLib
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404
-  - Map Mode Framework Forked
+  - Map Mode Framework Forked (1.5-1.6 only)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3672467706
   - Popup Framework
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3654537815
@@ -64,7 +62,7 @@ Frameworks & libraries  (29)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206
 
 ========================================================================
-Performance & tools  (29)
+Performance & tools  (27)
 ========================================================================
   - [1.5-1.6] Custom Xenotype Exporter Tool
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3254345251
@@ -78,12 +76,8 @@ Performance & tools  (29)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3757947970
   - Export and Import Mod Settings
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2937876372
-  - Faster Game Loading - Continued
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3652938473
   - FPS Stabilizer
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3318922522
-  - Hide Unloaded Mods Errors
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3778600801
   - Load in Background
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3696524379
   - Load Them Last
@@ -126,7 +120,7 @@ Performance & tools  (29)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3744475229
 
 ========================================================================
-UI & information  (116)
+UI & information  (115)
 ========================================================================
   - [DR] Build Outline（占地描边）
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3796610291
@@ -170,7 +164,7 @@ UI & information  (116)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3532359201
   - Cherry Picker
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3521312241
-  - Cherry picker scroll/search menu
+  - Cherry picker scroll bars
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3781285156
   - ChordedKeybinds
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3660259520
@@ -178,10 +172,8 @@ UI & information  (116)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3408065390
   - Colonist Bar Dividers
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3749216803
-  - Colored Categories (DEVELOPMENT CEASED)
+  - Colored Categories
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3323569935
-  - Confirm Quit to OS
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3793919395
   - Cooler Orientation Alert
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3755450701
   - Davai's Sorted Categories
@@ -274,7 +266,7 @@ UI & information  (116)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3359890371
   - Power Alerts
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=1664714758
-  - Power Tab 2 - 1.6 Bug Fixed Version
+  - Power Tab 2 - Fixed Fork (1.6/1.7)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3528086894
   - Premade Xenotype Floatmenu to Dialog
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3350991041
@@ -362,7 +354,7 @@ UI & information  (116)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3006402305
 
 ========================================================================
-Quality of life  (52)
+Quality of life  (51)
 ========================================================================
   - [lmgginspace] Force Do Job
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3226046759
@@ -460,8 +452,6 @@ Quality of life  (52)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=1319782555
   - Stop, Drop, And Roll! [BAL]
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2362707956
-  - TD Enhancement Pack - Continued
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3525414162
   - Toggle Harvest
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=1499848654
   - Undraft After Tucking
@@ -470,7 +460,7 @@ Quality of life  (52)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2436086611
 
 ========================================================================
-Textures & retextures  (72)
+Textures & retextures  (71)
 ========================================================================
   - (unavailable 2920418046)  [unavailable]
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2920418046
@@ -486,20 +476,18 @@ Textures & retextures  (72)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2603637629
   - [Mk] Mako's Animal Cages Retexture - Doors Closed
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3520803100
-  - [sbz] BioReactor retexture
+  - [sbz] BioReactor Retexture
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2618249368
-  - [sbz] EPOE retexture
+  - [sbz] EPOE Retexture
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2616058883
-  - [sbz] Human Power Generator retexture
+  - [sbz] Human Power Generator Retexture
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2635855505
-  - [sbz] WVC - Work Modes retexture
+  - [sbz] WVC - Work Modes Retexture
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2913464579
-  - [TW1.6]雪人贴图重置 Retexture~Snow man
+  - [TW1.7]雪人贴图重置 Retexture~Snow man
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3482433222
   - Alpha Genes - Forsaken Gear Retexture
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3705620674
-  - Archeankin (Retexture)
-    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3786535436
   - BallGames (Retexture)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3725533396
   - Better Trees
@@ -536,6 +524,8 @@ Textures & retextures  (72)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3770020686
   - Gerrymon's Upscaled Vanilla Textures
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3276562906
+  - Gravship Pilot Console Retexture
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3528477422
   - HiTech Research Bench Retexture
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3136109297
   - Inject Genes Retextured (1.6 Reupload)
@@ -568,8 +558,6 @@ Textures & retextures  (72)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3785816610
   - Parka Retexture
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2984307648
-  - Pilot Console Retexture
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3528477422
   - Research Papers Tech Levels (Retexture)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3759752068
   - Retextured! - RT Fuse
@@ -960,7 +948,7 @@ Furniture, decor & props  (48)
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3523916780
   - [MUS]捕鱼装饰 FishingDecorative
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2981211719
-  - [TW1.6]Neo-Retro Haus Furniture
+  - [TW1.7]新复古家居 Neo-Retro Haus Furniture
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3672585333
   - Aliaile Race Furniture
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3706046839
@@ -984,7 +972,7 @@ Furniture, decor & props  (48)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3663096965
   - Clocks
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3050079733
-  - Crypto Coffins | Fork by [ETF]
+  - Crypto Coffins | Fork by [ECC]
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3567860241
   - Decor into Props
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3771248988
@@ -1044,7 +1032,7 @@ Furniture, decor & props  (48)
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3261636943
 
 ========================================================================
-Audio & music  (12)
+Audio & music  (9)
 ========================================================================
   - Actually Vanilla Music Expansion
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2958708020
@@ -1056,14 +1044,8 @@ Audio & music  (12)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3728675951
   - LiquidSFX
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3758773902
-  - Music Blocker (屏蔽音乐)
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3629452893
   - Music Manager (Continued)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3220120457
-  - Music Manager Combat Glow
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3751795793
-  - Music Manager Search
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3730792365
   - P-Music
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=725130005
   - Progression: Soundtrack
@@ -1072,7 +1054,7 @@ Audio & music  (12)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3630774109
 
 ========================================================================
-Patches & compatibility  (26)
+Patches & compatibility  (25)
 ========================================================================
   - 1trickPwnyta's Anomaly Patch
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3242000764
@@ -1088,7 +1070,9 @@ Patches & compatibility  (26)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3749402559
   - DBH & VFEC/Hot Spring Compatibility
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2949772583
-  - Faction Territories Patches
+  - ElveMOpatch
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3721278193
+  - Faction Territories FPS Fix
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3768849805
   - FriendRivalPatch
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3228780918
@@ -1104,12 +1088,8 @@ Patches & compatibility  (26)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3695208570
   - PATCHED 1.6 [KV] Call Trade Ships
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3513064727
-  - Prepatcher
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2934420800
   - Resurrect Animals (VPE Patch)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3785523304
-  - Rim-Elves/Medieval Overhaul patch
-    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3721278193
   - Rimbody Vanilla-Style Integration Patch
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3734917610
   - Roo's Minotaur - Fur Leg Patch
@@ -1450,7 +1430,7 @@ Alpha series  (15)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3448953006
 
 ========================================================================
-Content & overhauls  (56)
+Content & overhauls  (54)
 ========================================================================
   - Altered Carbon 2: ReSleeved
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2196278117
@@ -1492,12 +1472,12 @@ Content & overhauls  (56)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3072579620
   - Epochs - Pyrinth
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3336544632
-  - EPOE-Forked: Expanded Prosthetics and Organ Engineering - Forked
-    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1949064302
   - EPOE-Forked: Royalty DLC expansion
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2008970276
   - Erin Eccentric
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2967829336
+  - Expanded Prosthetics and Organ Engineering - Forked
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1949064302
   - Gastronomy (Continued)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3509488152
   - Glittertech Expansion
@@ -1508,10 +1488,6 @@ Content & overhauls  (56)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3573344880
   - HarbingerKin - Phytokin
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3522734130
-  - LEVIATHANS: HIVE LORD
-    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3796506579
-  - LEVIATHANS:SANDWORM
-    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3713982815
   - Lightless Empyrean Reborn
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3517488959
   - Luciferium Expansion
@@ -1664,8 +1640,10 @@ Animals  (47)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3543801460
 
 ========================================================================
-Combat, weapons & raids  (46)
+Combat, weapons & raids  (45)
 ========================================================================
+  - (unavailable 3611982780)  [unavailable]
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3611982780
   - [1.6] CAI 5000 - Advanced AI + Fog Of War (continued)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3673768803
   - [CNEIO] More Reasonable Mortars
@@ -1680,12 +1658,8 @@ Combat, weapons & raids  (46)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3688808936
   - Art on Neolithic Weapons
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2556397158
-  - CAI 5000 duty fix
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3778359544
   - Coilguns Addon
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3788730287
-  - Configurable Dynamic Weapon Cooldown
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3611982780
   - Defensive Positions
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=761219125
   - Dire Raids (Continued)
@@ -1760,7 +1734,7 @@ Combat, weapons & raids  (46)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2730543694
 
 ========================================================================
-Building, production & storage  (69)
+Building, production & storage  (70)
 ========================================================================
   - [Og] Automatic Power Switch
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3031634496
@@ -1890,6 +1864,8 @@ Building, production & storage  (69)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3549739420
   - StockpileGroups
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3780470964
+  - Storage HUD
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3816961380
   - Storage Stats in Description
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3740185419
   - Switch Worker
@@ -1912,6 +1888,8 @@ Medical, needs & hygiene  (35)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3680510302
   - (unavailable 3798550391)  [unavailable]
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3798550391
+  - [DSGT] Nurse Job
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=1820501433
   - [FM] DBH Addon: Expanded Pack
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3125246043
   - Bandage Wraps 1.6 (Fork)
@@ -1958,8 +1936,6 @@ Medical, needs & hygiene  (35)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3690674058
   - No Bathroom Ruins
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3773690890
-  - Nurse Job
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=1820501433
   - Organ Decay Variety
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3238650014
   - Organ use No sell
@@ -1976,7 +1952,7 @@ Medical, needs & hygiene  (35)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3283745385
 
 ========================================================================
-Genes, xenotypes & races  (66)
+Genes, xenotypes & races  (67)
 ========================================================================
   - (unavailable 3628433732)  [unavailable]
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3628433732
@@ -2102,6 +2078,8 @@ Genes, xenotypes & races  (66)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3244422098
   - Selective Bioregeneration
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3217675412
+  - Starlet Xenotype
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3817723239
   - transparent skin genes
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3031713201
   - Trumpet Voice Gene
@@ -2184,7 +2162,7 @@ Ideology & social  (49)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2244594116
   - Ritual Filter
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3731965187
-  - Ritual Size Attenuation [1.5+]
+  - Ritual Size Attenuation
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3262033797
   - Set Owner for Prisoner Beds
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2053931388
@@ -2332,7 +2310,7 @@ World, biomes, factions & travel  (57)
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2886919774
 
 ========================================================================
-Research, storytellers & progression  (40)
+Research, storytellers & progression  (41)
 ========================================================================
   - Alfred Ancient - Progression Storytellers
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3579763743
@@ -2358,6 +2336,8 @@ Research, storytellers & progression  (40)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3798837810
   - Progression: Attire
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3634874325
+  - Progression: Bionics
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3819707781
   - Progression: Core
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3301868772
   - Progression: Drugs
@@ -2402,7 +2382,7 @@ Research, storytellers & progression  (40)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3744418945
   - Theming for Progression Modpack
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3493025708
-  - Ultimate Storyteller [1.4-1.6]
+  - Ultimate Storyteller [1.4-1.7]
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2887952810
   - Victor Veto - Progression Storytellers
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3745138223
@@ -2482,7 +2462,7 @@ Vehicles, gravships & mechs  (31)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3438366909
 
 ========================================================================
-Gameplay tweaks  (297)
+Gameplay tweaks  (301)
 ========================================================================
   - (unavailable 3712465624)  [unavailable]
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3712465624
@@ -2624,7 +2604,7 @@ Gameplay tweaks  (297)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2425530959
   - DLG. Mutations behind ][ Mutated limbs grow from the back ][ off the back ][ Anomaly redalgamored
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3637525997
-  - Don't Swim in Marsh
+  - Don‘t Swim in Marsh
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3648932221
   - Door Direction (One-Way Doors, Mod Doors Supported)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3814657467
@@ -2640,6 +2620,8 @@ Gameplay tweaks  (297)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=1716086112
   - Elosth's Pawn Presets
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3719680719
+  - Enhanced of Vanilla - Flaks and Plates
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3526444119
   - Enhanced Vat Learning
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3551263267
   - Erin's Great Pyrenean Mountain Dogs
@@ -2750,8 +2732,12 @@ Gameplay tweaks  (297)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3717835691
   - Keep Converting
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3461478214
+  - Keyed Job Priorities
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3816504827
   - KlopKots Target Priority
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3515285485
+  - Landing Tile Filter
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3745223377
   - Last Visited (Continued)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3507014727
   - Leaf Skirt
@@ -2798,6 +2784,8 @@ Gameplay tweaks  (297)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3221480525
   - Mushroom Gravy
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3741803826
+  - Name Colony At Start
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3815624891
   - Name Your Entities
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3229905841
   - Nerfed Fecal Sludge
@@ -2984,14 +2972,14 @@ Gameplay tweaks  (297)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3428237149
   - Style Merging
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3673644556
+  - Surveillance Shift
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3819508584
   - T's Seal the Spirits : Tribal Anomaly
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3228158975
   - Take Drugs Together
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3651575369
   - TakeCover
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3749200746
-  - Taste of Vanilla - Flaks and Plates
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3526444119
   - TDS Bug Fixes - Continued
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3529433984
   - Temperature Gauge (Continued)
@@ -3002,14 +2990,14 @@ Gameplay tweaks  (297)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3672142760
   - Thunderstorm
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3278460897
-  - Tile Filter
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3745223377
   - Titles For Me
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3374370341
   - Too Many Areas (Continued)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3280480860
   - Too Many Mods - Compats and Rebalances
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3250762483
+  - Toxin Warcasket
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3821100591
   - Toxlamps
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3166048152
   - Tradable Meals
