@@ -1,5 +1,5 @@
 The Progression — categorized catalog
-Steam snapshot: 25 October 2026
+Steam snapshot: 1 November 2026
 
 ========================================================================
 Frameworks & libraries  (28)
@@ -62,7 +62,7 @@ Frameworks & libraries  (28)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206
 
 ========================================================================
-Performance & tools  (27)
+Performance & tools  (29)
 ========================================================================
   - [1.5-1.6] Custom Xenotype Exporter Tool
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3254345251
@@ -96,6 +96,8 @@ Performance & tools  (27)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3618480405
   - No Version Warning
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2599504692
+  - Null Tooltip & Nameless Book Fix
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3828892965
   - Performance - Slower Pawn Tick Rate
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3524116050
   - Performance Esmolas
@@ -104,6 +106,8 @@ Performance & tools  (27)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2664723367
   - RimSaves
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=1713367505
+  - RimWorld Loading Optimizer (RLO)
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3817423183
   - Smart Speed
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=1504723424
   - Sourcing Only in Dev Mode
@@ -458,7 +462,7 @@ Quality of life  (51)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2436086611
 
 ========================================================================
-Textures & retextures  (71)
+Textures & retextures  (70)
 ========================================================================
   - (unavailable 2920418046)  [unavailable]
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2920418046
@@ -474,6 +478,8 @@ Textures & retextures  (71)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3535506453
   - [CM] Ideology DLC Texture Upscale
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2603637629
+  - [LM] LusTech Vanilla Weapons Retexture
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3602372541
   - [Mk] Mako's Animal Cages Retexture - Doors Closed
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3520803100
   - [sbz] BioReactor Retexture
@@ -532,10 +538,6 @@ Textures & retextures  (71)
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3561610873
   - Long Range Mineral Scanner Retexture
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3339757768
-  - LusTech Vanilla Weapons Retexture
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3602372541
-  - LusTech VWE Coilguns Retexture
-    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3750587891
   - Manipulator Beam Emitter Retexture
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3798109974
   - Meat on a Stick (Retexture)
@@ -604,7 +606,7 @@ Textures & retextures  (71)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3721818780
 
 ========================================================================
-Hair, bodies & animations  (75)
+Hair, bodies & animations  (76)
 ========================================================================
   - (unavailable 2768240773)  [unavailable]
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2768240773
@@ -646,6 +648,8 @@ Hair, bodies & animations  (75)
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3538207880
   - Det's Xenotypes for [NL] Facial Animation
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3565987465
+  - Doppio's Doppio Hair By Doppio For Doppio Out of Doppio (Doppio Edition)
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3826778991
   - Erin's Hairstyles - Redux
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2361911135
   - Erin's Hairstyles 2
@@ -758,8 +762,10 @@ Hair, bodies & animations  (75)
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2877292196
 
 ========================================================================
-Apparel, styles & cosmetics  (84)
+Apparel, styles & cosmetics  (85)
 ========================================================================
+  - [LM] Cowboy Hats Bloatended
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3688414599
   - [LYN] HD Corporate and Hedonist Apparel
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3333314985
   - [Og] Immersive Filter
@@ -794,8 +800,6 @@ Apparel, styles & cosmetics  (84)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3552813398
   - Cold Tactical Gun Styles
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3458282796
-  - Cowboy Hats Bloatended (Retexture + Ideology) now with Bowler Hat
-    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3688414599
   - Crowns and Regalia
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2585571655
   - Deck 2
@@ -844,6 +848,8 @@ Apparel, styles & cosmetics  (84)
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=2917732219
   - No Random Apparel on Ideology Edit
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2669243201
+  - Noble and Psycaster Styles Morbid
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3828495663
   - Office Supplies
     [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3394085110
   - Oracle's Miscellania
@@ -1078,7 +1084,7 @@ Patches & compatibility  (25)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3789536584
   - Integrated Implants - EPOE Modular Compatibility
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3733014537
-  - Medieval Overhaul ReGrowth 2 Patch
+  - Medieval Overhaul ReGrowth 2 Patch [DEPRECATED]
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3648522175
   - Medieval Overhaul Sleep Accelerator Patch
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3337654864
@@ -1428,7 +1434,7 @@ Alpha series  (15)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3448953006
 
 ========================================================================
-Content & overhauls  (54)
+Content & overhauls  (53)
 ========================================================================
   - (unavailable 2545774148)  [unavailable]
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2545774148
@@ -1514,8 +1520,6 @@ Content & overhauls  (54)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2260097569
   - ReGrowth 2 World Map Beautification for Alpha Biomes
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3564679302
-  - ReGrowth: Boiling
-    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3565675704
   - ReSplice: Charmweavers
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3131996691
   - ReSplice: Core
@@ -1638,7 +1642,7 @@ Animals  (47)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3543801460
 
 ========================================================================
-Combat, weapons & raids  (45)
+Combat, weapons & raids  (44)
 ========================================================================
   - (unavailable 3611982780)  [unavailable]
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3611982780
@@ -1648,6 +1652,8 @@ Combat, weapons & raids  (45)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3586669021
   - [DR] Dream's Damage Indicators
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3789796309
+  - [LM] LusTech Modern Camo Styles
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3489407179
   - [SR]Factional War (fork)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3423264477
   - [XND] Profitable Weapons (Continued)
@@ -1686,10 +1692,6 @@ Combat, weapons & raids  (45)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3451325196
   - Layers: Capes and Armor
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3344566457
-  - LusTech Modern Camo Styles (for Combat Extended)
-    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3489407179
-  - LusTech Unique Weapons
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3597400817
   - Mortar Accuracy
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=1729446857
   - Phase Weaponry
@@ -2066,9 +2068,9 @@ Genes, xenotypes & races  (67)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3548423129
   - Roo's Minotaur Xenotype Expanded (1.6)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3550835154
-  - Roo's Satyr and Faun Xenotypes Expanded (1.6)
+  - Roo's Satyr and Faun Xenotypes Expanded (Continued)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3548973881
-  - Roo's Satyr Xenotype (1.6)
+  - Roo's Satyr Xenotype (Continued)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3548322381
   - Royalty eye bionic
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3244422098
@@ -2458,7 +2460,7 @@ Vehicles, gravships & mechs  (31)
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3438366909
 
 ========================================================================
-Gameplay tweaks  (306)
+Gameplay tweaks  (309)
 ========================================================================
   - (unavailable 3712465624)  [unavailable]
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3712465624
@@ -2660,6 +2662,8 @@ Gameplay tweaks  (306)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3582261920
   - Genderbending Corrupted Obelisk
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3350774891
+  - Gerrymon's Misc Props: Market
+    [3/3 Cosmetics]  https://steamcommunity.com/sharedfiles/filedetails/?id=3825410203
   - Ghoul Corpse Filter
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3264196725
   - Ghouls Prefer Twisted Meat
@@ -2720,6 +2724,8 @@ Gameplay tweaks  (306)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2413690575
   - Inspiration Tweaks
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2117570018
+  - Interaction Spot On Chunk 
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3827781564
   - Invisible Display Case Continued
     [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=3546566196
   - Jettison Corpses
@@ -2812,7 +2818,7 @@ Gameplay tweaks  (306)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2870045856
   - Not Overhead Meal
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2986525461
-  - Nudge Me - Melee Pathfinding Fix
+  - Nudge Me - Pathfinding Fix
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3665657945
   - Only If 'Tolerance' Below in Drug Policy
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3088210509
@@ -2886,6 +2892,8 @@ Gameplay tweaks  (306)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=2558042766
   - Reese's Dirtmole Glowup
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3587761388
+  - ReGrowth: Boiling
+    [2/3 Content]  https://steamcommunity.com/sharedfiles/filedetails/?id=2981924439
   - Remove Colonies Limit
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3745014294
   - Remove Tutorial Button
@@ -2914,8 +2922,6 @@ Gameplay tweaks  (306)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3734644035
   - Room Quality Colors
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3407965871
-  - RPG Dialog
-    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3547971440
   - RT Fuse
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=728314182
   - Run and Hide (Continued)
@@ -2976,6 +2982,8 @@ Gameplay tweaks  (306)
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3428237149
   - Style Merging
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3673644556
+  - Stylish Dialogs
+    [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3827006806
   - Surveillance Shift
     [1/3 Core]  https://steamcommunity.com/sharedfiles/filedetails/?id=3819508584
   - T's Seal the Spirits : Tribal Anomaly

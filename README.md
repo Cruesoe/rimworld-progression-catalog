@@ -8,38 +8,45 @@ Searchable, filterable list of workshop items from:
 
 [Site patch notes](CHANGELOG.md)
 
-**Steam snapshot date: 25 October 2026**
+**Steam snapshot date: 1 November 2026**
 
-**packageId from RimSort steamDB: 1012 of 1490**
+**packageId from RimSort steamDB: 1012 of 1494**
 
-**Known packageIds (RimSort + previous overlay): 1443 of 1490**
+**Known packageIds (RimSort + previous overlay): 1439 of 1494**
 
-**Unique mods: 1490** — Core 865 · Content 432 · Cosmetics 193 (3 collection pages omitted from the item list)
+**Unique mods: 1494** — Core 867 · Content 431 · Cosmetics 196 (3 collection pages omitted from the item list)
 
 This is an unofficial helper, not an official Progression site. Categories are inferred from titles and which collection an item sits in.
 
 ## This snapshot vs previous catalog
 
-### Added (5)
-- LEVIATHANS: HIVE LORD — 3796506579
-- TD Enhancement Pack - Continued — 3525414162
-- LEVIATHANS:SANDWORM — 3713982815
-- RimUnity — 3819570122
-- ChezhouLib — 3595247479
+### Added (8)
+- Null Tooltip & Nameless Book Fix — 3828892965
+- Noble and Psycaster Styles Morbid — 3828495663
+- Stylish Dialogs — 3827006806
+- Doppio's Doppio Hair By Doppio For Doppio Out of Doppio (Doppio Edition) — 3826778991
+- RimWorld Loading Optimizer (RLO) — 3817423183
+- ReGrowth: Boiling — 2981924439
+- Interaction Spot On Chunk  — 3827781564
+- Gerrymon's Misc Props: Market — 3825410203
 
-### Removed (2)
-- Less Annoying Minor Alerts — 3791050729
-- BodyMastery Mastered DBH — 3296130663
+### Removed (4)
+- LusTech VWE Coilguns Retexture — 3750587891
+- ReGrowth: Boiling — 3565675704
+- LusTech Unique Weapons — 3597400817
+- RPG Dialog — 3547971440
 
-### Renamed (4)
-- Door Direction (One-Way Doors, Mod Doors Supported) → Door Direction — 3814657467
-- PATCHED 1.6 [KV] Call Trade Ships → PATCHED 1.7 Call Trade Ships — 3513064727
-- Scattered Stones 1.6 → Scattered Stones 1.7 — 3528503211
-- VQE Generator - Pipe Network Compat → Uranium Buffer Pipe Network (Formerly: VQE Generator - Pipe Network Compat) — 3556398957
+### Renamed (7)
+- Roo's Satyr Xenotype (1.6) → Roo's Satyr Xenotype (Continued) — 3548322381
+- LusTech Modern Camo Styles (for Combat Extended) → [LM] LusTech Modern Camo Styles — 3489407179
+- Medieval Overhaul ReGrowth 2 Patch → Medieval Overhaul ReGrowth 2 Patch [DEPRECATED] — 3648522175
+- Roo's Satyr and Faun Xenotypes Expanded (1.6) → Roo's Satyr and Faun Xenotypes Expanded (Continued) — 3548973881
+- LusTech Vanilla Weapons Retexture → [LM] LusTech Vanilla Weapons Retexture — 3602372541
+- Cowboy Hats Bloatended (Retexture + Ideology) now with Bowler Hat → [LM] Cowboy Hats Bloatended — 3688414599
+- Nudge Me - Melee Pathfinding Fix → Nudge Me - Pathfinding Fix — 3665657945
 
-### Newly unavailable (2)
-- Inject Genes Retextured (1.6 Reupload) — 3809376831
-- ReGrowth 2: Aspen — 2545774148
+### Newly unavailable (0)
+- None
 
 ## Open the catalog
 
